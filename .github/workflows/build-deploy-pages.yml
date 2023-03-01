@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: redkubes/docusaurus-deploy-action@v1
         with:
-          source-folder: website
+          source-folder: cqa-docs
           git-user: barotdeep
           git-password: ${{ secrets.TOKEN }}
           deployment-branch: master
