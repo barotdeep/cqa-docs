@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Deploy
-      uses: redkubes/docusaurus-deploy-action@v2
+      uses: redkubes/docusaurus-deploy-action@v1.2
       with:
         source-folder: .
         git-user: barotdeep
