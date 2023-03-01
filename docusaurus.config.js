@@ -7,19 +7,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ContextQA',
-  tagline: 'Deliver More With Confidence By Testing Faster',
+  tagline: 'Test with ContextQA',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://contextqa.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ContextQA Inc', // Usually your GitHub org/user name.
+  projectName: 'cqa-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,10 +38,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-      //   routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js')
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +56,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ContextQA',
+        title: 'Context QA',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -64,15 +64,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Index',
+            docId: 'index',
             position: 'left',
             label: 'Doc',
-          }
-          //  {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          },
+           {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
