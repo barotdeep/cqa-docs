@@ -14,12 +14,12 @@ const config = {
   url: 'https://contextqa.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs',
+  baseUrl: '/cqa-docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ContextQA Inc', // Usually your GitHub org/user name.
-  projectName: 'cqa-docs', // Usually your repo name.
+  organizationName: 'barotdeep', // Usually your GitHub org/user name.
+  projectName: '/cqa-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
