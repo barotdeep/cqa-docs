@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ContextQA',
-  tagline: 'Test with ContextQA',
+  tagline: 'Deliver More With Confidence By Testing Faster',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
@@ -56,7 +56,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Context QA',
+        title: 'ContextQA',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
@@ -67,12 +67,12 @@ const config = {
             docId: 'Index',
             position: 'left',
             label: 'Doc',
-          },
-           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          }
+          //  {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
