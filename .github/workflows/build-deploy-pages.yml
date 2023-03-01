@@ -22,7 +22,7 @@ jobs:
       uses: redkubes/docusaurus-deploy-action@v1.2
       with:
         source-folder: .
-        git-user: shahakash277
+        git-user: shahakash277@gmail.com
         git-password: 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
         deployment-branch: master
         
