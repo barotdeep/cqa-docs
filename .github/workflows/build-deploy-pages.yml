@@ -21,7 +21,7 @@ jobs:
     - name: Deploy
       uses: redkubes/docusaurus-deploy-action@v1.2
       with:
-        source-folder: .
+        source-folder: cqa-docs
         git-user: barotdeep
         git-password: ${{ secrets.TOKEN }}
         deployment-branch: ghp
