@@ -10,6 +10,7 @@ const config = {
   tagline: 'Test with ContextQA',
   favicon: 'img/favicon.png',
 
+
   // Set the production url of your site here
   url: 'https://docs.contextqa.com',
   // Set the /<baseUrl>/ pathname under which your site is served
