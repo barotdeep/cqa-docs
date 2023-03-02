@@ -2,7 +2,7 @@ name: Publish build
 on:
   push:
     branches: 
-      - ghp
+      - ghp-2
 concurrency: publish-con
 jobs:
   deploy:
