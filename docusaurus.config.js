@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://barotdeep.github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/cqa-docs/',
@@ -70,7 +70,7 @@ const config = {
             label: 'Doc',
           },
            {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/barotdeep/cqa-docs',
             label: 'GitHub',
             position: 'right',
           },
