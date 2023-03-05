@@ -68,17 +68,12 @@ const config = {
             docId: 'Portal',
             position: 'left',
             label: 'Doc',
-          },
-           {
-            href: 'https://github.com/barotdeep/cqa-docs',
-            label: 'GitHub',
-            position: 'right',
-          },
+          }
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Contex QA.`,
+        copyright: `Copyright © ${new Date().getFullYear()} [ContextQA Inc](https://contextqa.com).`,
       },
       prism: {
         theme: lightCodeTheme,
