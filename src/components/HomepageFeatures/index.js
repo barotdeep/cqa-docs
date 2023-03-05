@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Give 30% Time Back to Your Dev Team',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default
    /* description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),*/
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Release Faster With Confidence',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default
    /*   description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ), */
   },
   {
-    title: 'Get Everyting That Your Development Team Need',
+    title: 'Test Overall Quality Continuously',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default
 /*    description: (
       <>
