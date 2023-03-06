@@ -73,7 +73,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} [ContextQA Inc](https://contextqa.com).`,
+        copyright: '<div>Copyright © 2023 <a href="https://contextqa.com">ContextQA Inc.</a><div>',
       },
       prism: {
         theme: lightCodeTheme,
