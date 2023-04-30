@@ -1,6 +1,6 @@
 ---
-title: Test Terminal
-intro: 'You can set up a basic {% data variables.product.prodname_pages %} site for yourself, your organization, or your project.'
+title: Portal - Testing Terminal
+intro: 'Step-by-step instructions for all the features in ContextQA portal'
 redirect_from:
   - /categories/github-pages-basics
   - /articles/additional-customizations-for-github-pages
@@ -15,7 +15,7 @@ versions:
 topics:
   - Pages
 children:
-  - /about-github-pages
+  - /create-test-case
   - /creating-a-github-pages-site
   - /configuring-a-publishing-source-for-your-github-pages-site
   - /changing-the-visibility-of-your-github-pages-site
