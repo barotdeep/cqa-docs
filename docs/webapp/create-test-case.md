@@ -15,9 +15,9 @@ id: hJJa91jPoWo
 1. Go to **ContextQA Portal** 
 2. On left hand side there will be a **Pencil Icon.**
 3. Choose a **Test case** From the Design And Development List 
-4. The **Test cases** list** will open as shown In the screenshot below 
+4. The list of **Test cases* will be displayed as shown In the screenshot below 
 
-![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.007.png)
+![](imgs/test-case-list.png)
 
 5. On the right-hand side, There is a **Create** button as in the screenshot below
 6. Click on **Create** button 
