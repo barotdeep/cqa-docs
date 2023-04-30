@@ -1,10 +1,10 @@
 ---
-
 title: Create Test Case
-intro: 'In this guide, we'll walk you through the process of creating a test case in the ContextQA Portal using a low-code approach.'
+intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
 
+id: hJJa91jPoWo
 ---
 
 ## Video
@@ -33,13 +33,12 @@ topics:
 
 ## Example
 
-**Test Case** 
-Verify Login and Recruitment Functionality in OrangeHRM
+**Test Case: Verify Login and Recruitment Functionality in OrangeHRM**
 
-**Objective**
+## Objective
 To ensure that the user can successfully log in to the OrangeHRM application, navigate to the Dashboard, and access the Recruitment section with the correct credentials.
 
-**Test Steps**
+## Test Steps
 0. Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
 1. Click on Username 
 2. Enter Admin in the Username field 
