@@ -4,10 +4,15 @@ title: Create Test Case
 intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
+
+id: hJJa91jPoWo
 ---
 
 ## Create A Test Case
-Here is the [Video](https://youtu.be/hJJa91jPoWo)
+Video:
+{% raw %}
+{% include youtube.html id="hJJa91jPoWo" %}  
+{% endraw %}
 
 ## Steps
 
