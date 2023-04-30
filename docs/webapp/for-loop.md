@@ -6,30 +6,30 @@ topics:
 ---
 
 ## Create A For Loop
-Here is the [Video](https://youtu.be/hJJa91jPoWo)
+Here is the [Video](https://youtu.be/GE3mEDiPO0k)
 
 1. Go to **ContextQA Portal** 
 2. On the left side There Will Be a **Pencil Icon.** Click on it 
 3. Choose a **Test case** From the Design And Development List 
 4. The **Test cases** list will be displayed as shown below
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.013.png)
+![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.013.png)
 
 5. Click on desired **Test Case**
 6. **Test Steps** list will be displayed. 
 7. Click on the option of Side Panel as shown
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.036.png)
+![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.036.png)
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.037.png)
+![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.037.png)
 
 8. Select **For Loop** option (For Data- Driven Testing only this option is used)
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.038.png)
+![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.038.png)
 
 9. Enter **Test Data Profile, Loop Start, Loop End** 
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.039.png)
+![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.039.png)
 
 10. Click on **Create** Button 
 
