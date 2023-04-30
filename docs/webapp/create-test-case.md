@@ -1,4 +1,10 @@
 
+---
+title: Create Test Case
+intro: 'How to Create Test Case using Low-code'
+topics:
+  - TestCase
+---
 
 ## Create A Test Case
 Here is the [Video](https://youtu.be/hJJa91jPoWo)
@@ -22,4 +28,4 @@ Here is the [Video](https://youtu.be/hJJa91jPoWo)
 ![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.009.png)
 
 8. On the right-hand side, there is a **Create** Button. Click on it. 
-9. A message **“***Test Case Created Successfully***”** will be shown as the bottom left of the screen.	
+9. A message **Test Case Created Successfully** will be shown at the bottom left of the screen.	
