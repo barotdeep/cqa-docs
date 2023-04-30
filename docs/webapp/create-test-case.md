@@ -5,14 +5,13 @@ intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
 
-id: hJJa91jPoWo
 ---
 
 ## Create A Test Case
 Video:
-{% raw %}
+
 {% include youtube.html id="hJJa91jPoWo" %}  
-{% endraw %}
+
 
 ## Steps
 
