@@ -1,16 +1,14 @@
-
-
-
-## Create a Test Case in Jira from Portal
-**Prerequisites:**
-Make sure you have created a “Test Case” issue type in Jira.
 ---
 title: Create Test Case
-intro: 'How to Login/SingUp to ContextQA Portal'
+intro: 'Create a Test Case in Jira from Portal'
 topics:
   - JIRA
-
 ---
+
+## Create a Test Case in Jira from Portal
+
+**Prerequisites:**
+Make sure you have created a “Test Case” issue type in Jira.
 
 **Steps:**
 1.  Log in to your ContextQA organization.
@@ -26,7 +24,6 @@ topics:
 5.  Click on "Report Bug" from the left menu.
     
 6.  Click on the "Jira" tab.
-
 
 ![](imgs/link-test-case.png)
     
