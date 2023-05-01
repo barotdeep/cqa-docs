@@ -15,7 +15,7 @@ Here is the Video **[https://www.youtube.com/watch?v=_K5uBf5vue8](http://video)*
 3. Choose a **Test case** From the Design And Development List 
 4. The Test cases list will open as shown in the screenshot below. 
 ![](imgs/test-case-list.png)
-5. Select your desired Test Case**				
+5. Select your desired **Test Case**				
 6. **Test Steps** list screen will appear.
 7. Add **Steps** as shown in the screen below
 ![](imgs/Steps-Template.png)
