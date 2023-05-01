@@ -1,6 +1,6 @@
 ---
-title: Delete Test Case
-intro: 'How to Delete Test Case'
+title: Run Test Case
+intro: 'How to Run Test Case'
 topics:
   - TestCase
 ---
