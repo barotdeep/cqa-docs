@@ -21,4 +21,4 @@ Steps:
 
 9. A New Pop-up Open enters **Delete,** And Clicks on **I Understand, Delete this Test Suite** As Shown in the Screenshot Above 
 
-![](imgs/delete%20tesst%20suite.png)
+![](imgs/delete-tesst-suite.png)
