@@ -2,9 +2,8 @@
 title: Add API Step
 intro: 'How to Add API Step'
 topics:
-  - 
 ---
-## <a name="_u5k6cxpwhihn"></a>3.1. **Add API Step**
+##  Add API Step
 Here is the **[Video](https://youtu.be/xwKriudEe1k)**
 
 **Steps**: 

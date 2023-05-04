@@ -13,7 +13,7 @@ topics:
 1. Go to **ContextQA Portal** 
 2. On the left side there is the **Pencil Icon.** Click on it 
 3. Choose a **Test case** From the Design And Development List 
-4. The **Test cases** list** will open as shown in the screenshot below 
+4. The **Test cases** list will open as shown in the screenshot below 
 
 ![](imgs/test-case-list.png)
 
