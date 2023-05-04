@@ -14,6 +14,6 @@ topics:
 5. ![](imgs/test-case-list.png)
 6. Select Given **Test Plan** 
 7. Click on **Delete Button** 
-8. ![](imgs/Test%20Plan%20Delete.png)
+8. ![](imgs/test-plan-delete.png)
 9. Enter **Delete** 
 10. Click on **I understand, Delete this Test plan** 
