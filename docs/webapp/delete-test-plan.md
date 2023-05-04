@@ -2,8 +2,9 @@
 title: Delete Test Plan
 intro: 'How to Delete Test Plan'
 topics:
-  -
-## <a name="_9mw8fn889bx7"></a>6.7 **Delete Test Plan** 
+---
+
+## Delete Test Plan
 
 **Steps:** 
 
