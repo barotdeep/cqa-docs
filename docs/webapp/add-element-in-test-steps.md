@@ -22,7 +22,10 @@ topics:
 
 ![](imgs/label-buttn.png)
 
-8. This will open element list on the right side as shown below![](imgs/Select%20Element.png)
+8. This will open element list on the right side as shown below.
+
+![](imgs/select-element.png)
+
 9. Select an **Element** From the list 
 10. Click on the Create button.
 
