@@ -2,8 +2,9 @@
 title: Reorder Test Steps
 intro: 'How to Reorder Test Steps'
 topics:
-  
-## <a name="_vq6k5jczoxqd"></a>**3.7 Reorder Test Steps** 
+---
+
+## Reorder Test Steps** 
 
 **Steps:** 
 
