@@ -17,11 +17,11 @@ topics:
 5. Click on desired **Test Case** 
 6. There will be a **Reorder Tab** in the list of **Test Steps** 
 
-![](imgs/Reorder%20steps.png)
+![](imgs/reorder-steps-a.png)
 
 7. To **Reorder** the Steps, click on the **Reorder** button. Drag and drop the steps in the order you want. 
 
-![](imgs/REorder%20steps%201.png)
+![](imgs/reorder-steps.png)
 
 8. Click on **Update**
 

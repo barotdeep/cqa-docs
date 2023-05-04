@@ -20,7 +20,7 @@ The video is to be updated
 5. Click on desired **Test Case.**
 6. **Test Steps** list will open and click on **Add Steps** as shown in the screenshot below
 
-![](imgs/%2BAdd%20Step.png)
+![](imgs/add-step.png)
 
 7. Select **Steps** and click on **Create** button 
 

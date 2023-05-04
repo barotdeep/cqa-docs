@@ -22,9 +22,9 @@ To view the advanced options for you test case, click on Show advanced options o
 5. On the right-hand side click on **Create** button
 6. Click on **Show Advance Options** 
 
-![](imgs/Advance%20ppp.png)
+![](imgs/advance-ppp.png)
 
-![](imgs/Advance%20xxx.png)
+![](imgs/advance-xxx.png)
 
 
 
@@ -36,7 +36,7 @@ The advanced options available are as follows:
    3. Medium – Medium priority
    4. Minor – Test case for a minor feature
 
-![](imgs/001.png)
+![](imgs/abc-q.png)
 
 2. **Type (Required)**: Select any of the below test method type that needs to be gratified using this test case. 
 
@@ -57,28 +57,28 @@ Note: Only Test Cases in ready state will be available for execution.
 4. Obsolete- Test Case is no longer valid.
 5. Rework – Test Case needs to be updated.
 
-![](imgs/002.png)
+![](imgs/abc-op.png)
 
 **Prerequisite (Required)**: Select another Test Case as a prerequisite for this Test Case. This will help you save execution time when a prerequisite condition is not met.
 
 
 For example, in the case of an e-commerce shopping website, the test case Add Items to Cart would be a prerequisite for Place Order since an order cannot be placed in an empty Cart. If the Add Items to Cart Test Case is not added to the Test Suite, the Test will fail in most cases. Therefore, it would be beneficial to add it as a prerequisite for the Place Order Test Case.
 
-![](imgs/003.png)
+![](imgs/abc-o.png)
 
 1. **Labels**: You can assign existing tags to the test cases or create new tags.
 
-![](imgs/004.png)
+![](imgs/abc-p.png)
 
 2. **Test Data Profile:** Select the Test Data profile to be used in the Test Case. This is required only if you are going to use parameter type test data in your test steps. 
 
-![](imgs/005.png)
+![](imgs/abc-z.png)
 
 3. **Data-Driven (toggle)**: Enable this if you want to run the same test case repeatedly, each time with a different set of data for the input fields. You will need to add a Test Data Profile before enabling this option as shown.
 
-![](imgs/006.png)
+![](imgs/abc-t.png)
 
 4. Enter  **Data Iterates from, Data Iterates Till** 
 5. Edit **Description**
 
-![](imgs/007.png)
+![](imgs/abc-w.png)

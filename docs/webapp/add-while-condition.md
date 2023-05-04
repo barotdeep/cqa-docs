@@ -16,14 +16,14 @@ topics:
 6. Click on given **Test Case. Test Steps** list will be displayed.
 7. Click on the option of Side Panel as shown in the screenshot below
 
-![](imgs/IF%20Condition.png) 
+![](imgs/if-condition.png) 
 
 8. Select **While Loop** and this will add *While Condition* in the test step.
 
-![](imgs/JPG.2.png)
+![](imgs/jpg-c.png)
 
 9. Add condition with **While Statement** by choosing specific action 
 
-![](imgs/JPG.3.png)
+![](imgs/jpg-w.png)
 
 10. After Adding condition, click on **Create** Button 

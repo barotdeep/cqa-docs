@@ -18,7 +18,7 @@ Here is the **[Video](https://youtu.be/xwKriudEe1k)**
 
 5. Click on desired Test Case> Test Steps Select **Rest API - REST\_API:  #{method}  -  #{title}**  from the list of templates. 
 
-![](imgs/API%20Step.png)
+![](imgs/api-step.png)
 
 6. Under Request Details enter all the details required to test the API.
 7. Enter **Method**: GET, POST, PUT, PATCH, or DELETE
@@ -26,7 +26,7 @@ Here is the **[Video](https://youtu.be/xwKriudEe1k)**
 9. Enter **Header Name,** Enter **Header Value.**
 10. Click on **Next**
 
-![](imgs/API-2.png)
+![](imgs/api-st.png)
 
 11. Enter **Variable Name** (if you want to store response value in a variable)
 12. Click on **Create** Button 

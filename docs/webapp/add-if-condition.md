@@ -19,14 +19,14 @@ topics:
 6. **Test Steps** list will open.
 7. Click on the **option** of side panel as shown in the screenshot.
 
-![](imgs/IF%20Condition.png)
+![](imgs/if-condition.png)
 
 8. In this side panel Toggle we select the **If Conditional** option. By this, we will be adding the *If Condition* to the steps in our test case.
 
-![](imgs/Toggle%20IF%20Condition.png)
+![](imgs/toggle-if-condition.png)
 
 9. Add the conditions by choosing specific actions
 
-![](imgs/JPG%20-%20X.png)
+![](imgs/jpg-x.png)
 
 10. Click on **Create** Button 

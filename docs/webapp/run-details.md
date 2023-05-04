@@ -21,21 +21,21 @@ topics:
 6. **Test Steps** list will open.
 7. On the right-hand Side, There is a **Run tab** 
 
-![](imgs/Run-Tab.png)
+![](imgs/run-tab.png)
 
 8. Click on **Run History** from the below screen
 
-![](imgs/Run-History-Tab.png)
+![](imgs/run-history-tab.png)
 
 
 9. Click on **Dry Run** under **Run History**
 
 
-![](imgs/Dry%20run.png)
+![](imgs/dry-run.png)
 
 10. After Clicking on the **Dry Run,** it will show** 
 1) **Run Details ,** 
 2) **Test Steps (Executed)** 
 3) **Test Step (Current)**
 ` `This screen below is displaying the **all the three tabs one adjacent to another**. 
-![](imgs/Current-Executed-.png )
+![](imgs/current-executed-.png)

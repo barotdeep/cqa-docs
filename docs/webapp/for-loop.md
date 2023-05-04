@@ -19,17 +19,17 @@ Here is the [Video](https://youtu.be/GE3mEDiPO0k)
 6. **Test Steps** list will be displayed. 
 7. Click on the option of Side Panel as shown
 
-![](imgs/IF%20Condition.png)
+![](imgs/if-condition.png)
 
 ![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.037.png)
 
 8. Select **For Loop** option (For Data- Driven Testing only this option is used)
 
-![](imgs/For%20Loop%20Select.png)
+![](imgs/for-loop-select.png)
 
 9. Enter **Test Data Profile, Loop Start, Loop End** 
 
-![](imgs/Data%20Profile.png)
+![](imgs/data-profile.png)
 
 10. Click on **Create** Button 
 

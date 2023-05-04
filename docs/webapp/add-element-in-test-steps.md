@@ -20,7 +20,7 @@ topics:
 6. **Test Steps** list will open. 
 7. Select ‘Click on **Label’,**  then Click on the **Label** button as shown below. 
 
-![](imgs/Label%20Buttn.png)
+![](imgs/label-buttn.png)
 
 8. This will open element list on the right side as shown below![](imgs/Select%20Element.png)
 9. Select an **Element** From the list 

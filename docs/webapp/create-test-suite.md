@@ -19,5 +19,5 @@ Steps:
 5. On Right Hand Side, There Is **Create** Button 
 6. Click on **Create Button**
 7. Enter **Name, Prerequisite, Add Test Cases, Add Labels** As Shown in Screenshot Below 
-8. ![](imgs/Create%20Suite.png)
+8. ![](imgs/create-suite.png)
 9. Click on **Create Button** 

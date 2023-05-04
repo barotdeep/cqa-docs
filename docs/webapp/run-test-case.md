@@ -19,5 +19,5 @@ topics:
 5. Click on Given **Test Case**
 6. **Test Steps** list will open
 7. On the right-hand Side, There Is a **Run tab**
-![](imgs/Run-Tab.png)
+![](imgs/run-tab.png)
 8. Click on Run Tab, and it will **run** the test case .

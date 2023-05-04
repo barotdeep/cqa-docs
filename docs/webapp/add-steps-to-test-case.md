@@ -18,5 +18,5 @@ Here is the Video **[https://www.youtube.com/watch?v=_K5uBf5vue8](http://video)*
 5. Select your desired **Test Case**				
 6. **Test Steps** list screen will appear.
 7. Add **Steps** as shown in the screen below
-![](imgs/Steps-Template.png)
+![](imgs/steps-template.png)
 8. Click on **Create** Button 

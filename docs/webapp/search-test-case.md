@@ -16,5 +16,5 @@ Here is the [Video](https://www.youtube.com/watch?v=BI-CSnPDujk&list=PLfRq0Fuuqh
 4. The **Test Case** list will open as shown in the screenshot Below 
 ![](imgs/test-case-list.png)
 5. Among the panel options, you see there is **Search** icon as shown in the screenshot below 
-![](imgs/Search%20button.png)
+![](imgs/search-button.png)
 6. Click on **Search** Icon. Search the desired Test case from the list.

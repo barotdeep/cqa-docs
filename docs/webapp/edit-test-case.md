@@ -15,15 +15,16 @@ topics:
 1. Go to **ContextQA Portal.**
 2. On the left hand side there is a **Pencil Icon.**
 3. Choose a **Test case** from the Design And Development list and select a **Test Case** from the list of **Test Cases**.
+![](imgs/test-case-list.png)
+
 4. On the right side, there is a **Pencil** Icon and click on it as shown.
 5. **Edit Test Case** Screen is shown in Screenshot Above 
-![](imgs/Edit%20test%20case.png)
+![](imgs/edit-test-case.png)
 6. Edit **Name** and click on the **Update** button
 7. Once the Test Case is edited, you will see a message at the bottom left- *Test case updated successfully*.
 
 
 
-![](imgs/test-case-list.png)
 
 
 ## Example

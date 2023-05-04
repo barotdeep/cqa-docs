@@ -17,6 +17,6 @@ Steps:
 1. ![](imgs/test-case-list.png)
 1. On the Right Hand Side, There Is a Pencil **Icon.** Click on it.
 1. **Edit Test Suite** Screen Open As Shown in the Screenshot Above.
-1. ![](imgs/Edit%20Test%20Suite.png)
+1. ![](imgs/edit-test-suite.png)
 1. Edit **Name, Prerequisite, Add Test cases, Add Labels** 
 1. Click on **Update Tab** 
