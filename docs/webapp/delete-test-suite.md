@@ -7,7 +7,6 @@ topics:
 ## <a name="_gmj0ltm4dyjn"></a>5.3 **Delete Test Suite** 
 [Video ](https://www.youtube.com/watch?v=Rc5LYfrWV9Y&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=13)
 
-
 Steps: 
 
 1. Go to **Portal** 
