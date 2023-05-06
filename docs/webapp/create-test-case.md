@@ -22,11 +22,11 @@ id: hJJa91jPoWo
 5. On the right-hand side, There is a **Create** button as in the screenshot below
 6. Click on **Create** button 
 
-![](imgs/add-step.png)
+![](imgs/create-button.png)
 
 7. Enter the **Test Case** **Name** in the box as shown in the screenshot above 
 
-![](imgs/add-row.png)
+![](imgs/test-case-create.png)
 
 8. On the right-hand side, there is a **Create** Button. Click on it. 
 9. A message **Test Case Created Successfully** will be shown at the bottom left of the screen.	
