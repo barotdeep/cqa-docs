@@ -22,11 +22,11 @@ id: hJJa91jPoWo
 5. On the right-hand side, There is a **Create** button as in the screenshot below
 6. Click on **Create** button 
 
-![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.008.png)
+![](imgs/add-step.png)
 
 7. Enter the **Test Case** **Name** in the box as shown in the screenshot above 
 
-![](../image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.009.png)
+![](imgs/add-row.png)
 
 8. On the right-hand side, there is a **Create** Button. Click on it. 
 9. A message **Test Case Created Successfully** will be shown at the bottom left of the screen.	

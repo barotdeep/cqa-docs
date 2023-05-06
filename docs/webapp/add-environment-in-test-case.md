@@ -26,7 +26,7 @@ topics:
 6. **Test Steps** List Will Open.
 7. In the **Test Case,** add a Test Step with **Test Data** as shown in the screenshot below.
 
-![](imgs/environment-xx.png)
+![](imgs/template-test-data.png)
 
 8. Delete Test Data placeholder
 9. Choose **Environment** from the Dropdown
