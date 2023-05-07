@@ -28,7 +28,7 @@ topics:
 
 8. Replace Test Data placeholder with **Parameter** from the Dropdown
 
-![](image/Aspose.Words.d40f5b37-f30c-4c0e-a713-94a14d168e3f.046.png)
+![](imgs/parameters-select.png)
 
 9. Choose one of the Parameters that you just created 
 10. Insert the parameter into the Test Case.
