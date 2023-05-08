@@ -1,12 +1,12 @@
 ---
-title: Add Cross Device Test Plan
-intro: 'How to Add Cross Device Test Plan'
+title: Add Cross Platform Test Plan
+intro: 'How to Add Cross Platform Test Plan'
 topics:
 ---
 
-## <a name="_e9bndvp6rivn"></a>6.5 **Add Cross Device Test Plan** 
+## <a name="_a7qmrzz81nrq"></a>6.6 **Add Cross Platform Test Plan** 
 ##
-<a name="_or15d3keu556"></a>[Video](https://youtu.be/gFoUQfguwvM)
+<a name="_ep6va33o4qwu"></a>[Video](https://youtu.be/L5QzmwjtWxc)
 
 **Steps:** 
 
