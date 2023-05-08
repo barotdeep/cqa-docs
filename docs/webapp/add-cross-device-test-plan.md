@@ -1,13 +1,12 @@
 ---
-title: Add Cross Browser Test Plan
-intro: 'How to Add Cross Browser Test Plan'
+title: Add Cross Device Test Plan
+intro: 'How to Add Cross Device Test Plan'
 topics:
 ---
 
-## <a name="_c4dzy78drvcf"></a>6.4 **Add Cross Browser Test Plan** 
-
-[**Video** ](https://www.youtube.com/watch?v=Fv17eJkZucw&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=15)
-
+## <a name="_e9bndvp6rivn"></a>6.5 **Add Cross Device Test Plan** 
+##
+<a name="_or15d3keu556"></a>[Video](https://youtu.be/gFoUQfguwvM)
 
 **Steps:** 
 
@@ -16,7 +15,7 @@ topics:
 3. Choose the **Test Plan** From **Test Plan & Result** 
 4. The **Test Plan** List Will Open As Shown In the Screenshot Below.
 5. ![](imgs/test-plan-list.png)
-6. On the right-hand Side There Is A Button for **+Test Plan** 
+6. On the right-hand Side There Is A Button of **+Test Plan** 
 7. Click on it 
 8. Enter **Test Plan Name, Description, and Labels** 
 9. ![](imgs/test-plan-createeeeeee.png)

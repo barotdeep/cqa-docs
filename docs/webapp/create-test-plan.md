@@ -26,7 +26,7 @@ Steps:
 10. ![](imgs/test-plan-test-suite.png)
 11. Click on **Add Machine Device** 
 
-![](imgs/test-plan-machine-device.png)
+![](imgs/machine-device.png)
 
 12. Edit **Name, Select OS, OS Version, Select Browser, Browser Version And Resolution.**
 13. Click on **Create Button** 
