@@ -1,10 +1,10 @@
 ---
-title: Total Test Steps Passed
-intro: 'How to Check Total Test Steps Passed'
+title: Total Test Steps Failed
+intro: 'How to Check Total Test Steps Failed'
 topics:
   - 
 ---
-## <a name="_9xorelst4o6r"></a>7.2.3 **Total Test Step Passed** 
+## <a name="_9xorelst4o6r"></a>7.2.3 **Total Test Step Failed** 
 
 **Steps:** 
 
@@ -19,5 +19,5 @@ topics:
 9. ![](imgs/more-details.png)
 10. Click on **More Details** 
 11. A Pop-up Opens 
-12. ![](imgs/pop-up.png)
+11. ![](imgs/pop-up.png)
 
