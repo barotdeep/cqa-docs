@@ -1,24 +1,26 @@
 ---
-title: Create Environment
-intro: 'How to Create Environment'
+title: Delete Environment
+intro: 'How to Delete Environment'
 topics:
 
 ---
-## <a name="_rs3aw9oddux7"></a>9.2. **Edit Environment** 
-[**Video**](https://www.youtube.com/watch?v=jLo9UAF1oPs&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=7)
+## <a name="_oxn2uftcxanu"></a>9.3 **Delete Environment** 
 
 **Steps:** 
-
 
 1. Go to **Portal** 
 2. On the left-hand side, There Will Be A **Pencil Icon (Test Development)** Click on it 
 3. Choose **Environments** From **Test Plan & Result**
-4. Select **Environments** From the List 
 
 ![](imgs/environment-list.png)
+4. **
+   ` `You Can **Delete** Given **Environment**  
+5. On the right-hand side There will Be A **Delete Icon**
 
-![](imgs/edit-envirnment.png)
+![](imgs/delete-environment.png)
 
-5. On the right-hand Side There Is **Edit Tab (Pencil icon), Click on it** 
-6. **Edit Name, Description, Parameter Name, Parameter value.**
-7. Click **on Update Button** 
+6. Click on **Delete Icon** 
+
+![](imgs/yes-delete-environment.png)
+
+7. Click on **Yes, Delete**
