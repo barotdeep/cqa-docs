@@ -1,5 +1,5 @@
 ---
-title: Edit Test Case
+title: 1.2 Edit Test Case
 intro: 'How to Edit Test Case using Low-code'
 topics:
   - TestCase
