@@ -23,7 +23,7 @@ topics:
 11. Select **Test Suite** 
 12. ![](imgs/test-plan-test-suite.png)
 13. Click on **Add Machine Device** 
-14. ![](imgs/machine-device.png)
+14. ![](imgs/test-plan-machine-device.png)
 15. Edit **Name** 
 16. ` `**Select OS, OS Version, Select Browser, Browser Version, And Resolution.**
 17. Click on **Create Button** 
