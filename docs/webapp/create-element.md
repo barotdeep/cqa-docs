@@ -14,7 +14,7 @@ topics:
 2. On the left-hand side There Will Be A **Pencil Icon (Test Development)** Click on it 
 3. Choose **Elements** From **Design and Development** 
 
-![](imgs/element)
+![](imgs/element-list.png)
 
 4. On the right-hand side, there is a **Create Button** 
 5. Click on **Create Button** 
