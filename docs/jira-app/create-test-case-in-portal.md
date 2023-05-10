@@ -17,8 +17,7 @@ Make sure you have created a “Test Case” issue type in Jira.
     
 3.  Click on the "Test Cases" tab from the left panel.
     
-4.  Open an existing test case or create a new one. To create a new test case, refer to [https://barotdeep.github.io/cqa-docs/docs/portal#21-create-a-test-case](https://barotdeep.github.io/cqa-docs/docs/portal#21-create-a-test-case)
-
+4.  Open an existing test case or create a new one. To create a new test case, refer to 
 ![](imgs/test-case.png)
     
 5.  Click on "Report Bug" from the left menu.
