@@ -11,7 +11,7 @@ topics:
 
 1. Click on **Extension icon.**  
 2. Go to **Test Case List**
-3. Test case list** will open.
+3. Test case list will open.
 4. Search for the respective **Test Case**.
 5. Click on **Delete Icon** as shown in the screenshot below
 
