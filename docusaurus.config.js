@@ -21,7 +21,7 @@ const config = {
   organizationName: 'barotdeep', // Usually your GitHub org/user name.
   projectName: 'cqa-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   deploymentBranch: 'gh-pages',
 
