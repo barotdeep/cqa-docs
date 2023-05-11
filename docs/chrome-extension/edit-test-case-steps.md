@@ -1,6 +1,6 @@
 ---
 title: Edit Test Case Steps
-intro: 'How to Edit Test Case in Chrome Extension'
+intro: 'How to Edit Test Case Steps in Chrome Extension'
 topics:
 ---
 
