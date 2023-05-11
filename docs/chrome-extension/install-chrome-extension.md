@@ -20,7 +20,7 @@ topics:
 
 
 
-4. Click on ‘**Add Extension’** from the pop up as shown
+4. Click on **Add Extension’** from the pop up as shown
 
 
 5. Success message will be shown via pop-up on the right.
