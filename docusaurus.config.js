@@ -65,9 +65,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Portal',
+            docId: 'webapp/add-api-step',
             position: 'left',
-            label: 'Doc',
+            label: 'Docs',
           }
         ],
       },

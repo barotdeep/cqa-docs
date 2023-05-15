@@ -18,4 +18,5 @@ children:
   - /create-test-case
   - /for-loop
 shortTitle: Get started
+sidebar_position: 1
 ---
