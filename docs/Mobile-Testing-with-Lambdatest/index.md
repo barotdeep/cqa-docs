@@ -45,10 +45,6 @@ Click on the Elements and copy the xpath and create element in ContextQA Element
 Now Create Test steps.
 
 
-\------------------------------
-
-\----------------------------------
-
 - **Test Case Creation:**
   - Open ContextQA and initiate a new test case.
   - Ensure the 'mobile testing' option is activated.
@@ -56,7 +52,6 @@ Now Create Test steps.
 ![](../Mobile-Testing-with-Lambdatest/mobile-images/Aspose.Words.7d631ad0-db57-4dbb-b7d3-b7218ed71d68.006.png)
 
 - Utilize ContextQA's elements and low-code/no-code steps.
-
 
 
 
