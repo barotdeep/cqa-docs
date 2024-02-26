@@ -133,4 +133,3 @@ This guide provides step-by-step instructions on how to create a test case for a
 27\. Click "Run"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-26/27f2af38-f921-49dd-b9bc-a8149dce2b74/ascreenshot.jpeg?tl_px=1713,0&br_px=3433,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=647,14)
-#### [Made with Scribe](https://scribehow.com/shared/Create_Test_Case_for_Retail_Login_Scenario__LD4kU3zMQ8eCTeo5qylDpQ)
