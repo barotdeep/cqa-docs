@@ -1,0 +1,80 @@
+---
+title: Create Test Suite
+intro: 'How to Create Test Suite'
+topics:
+
+---
+
+
+# Test Suite Create
+
+[Video](https://www.youtube.com/watch?v=yqQufISzvGw&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=9)
+
+This guide provides step-by-step instructions on how to create a test suite in ContextQA. Following these steps will allow users to organize and manage their test cases effectively, improving the efficiency of their testing process.
+
+1\. Navigate to **Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/49aef7a1-8fa9-4c5c-9921-74bb4c29ccab/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=3,218)
+
+
+2\. Click on **Test Suites**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/a5360244-f5f5-4f02-aed1-a8234c30c30c/ascreenshot.jpeg?tl_px=0,102&br_px=1376,871&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=116,276)
+
+
+3\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/56718d0c-4f20-4a8c-b4ba-6c1bd68b4749/ascreenshot.jpeg?tl_px=203,0&br_px=1923,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1029,-7)
+
+
+4\. Enter the **Test Suite Name**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/e9eb7bb4-2f79-46cb-8766-35571849a2aa/ascreenshot.jpeg?tl_px=57,0&br_px=1433,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,126)
+
+
+5\. Click **+ Add Test Cases**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/b6da9b53-437c-4371-a468-bc585f10e146/ascreenshot.jpeg?tl_px=0,96&br_px=1376,865&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=324,277)
+
+
+6\. **Search** the Testcases
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/1ef80e3d-e200-41c0-8365-4992dece889c/ascreenshot.jpeg?tl_px=487,0&br_px=1562,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,120)
+
+
+7\. **Select** the Testcases by **clicking on the checkbox**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/d175aed2-1b62-4938-afa6-d39d52a05fbd/ascreenshot.jpeg?tl_px=165,35&br_px=1240,636&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+8\. Click on **Right Arrow** to **Add all Selected Testcases**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/a3f5fbcb-06a2-4b16-9032-2f92927c3329/ascreenshot.jpeg?tl_px=684,137&br_px=1759,738&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+9\. Click on **Save**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/79702ae2-e1e3-477f-98b8-b641c8d94aa2/ascreenshot.jpeg?tl_px=203,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=932,537)
+
+
+10\. The Testcases have been Successfully added to the Suite. Now **Click on Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/0c852a22-9a2f-41e1-8be9-a3987469e181/user_cropped_screenshot.jpeg?tl_px=203,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=884,544)
+
+
+11\. Click on **Testing_suit**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/6d725d26-1070-4261-94ff-c615f6c8bf49/ascreenshot.jpeg?tl_px=0,0&br_px=1719,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=279,228)
+
+
+12\. Click **Dropdown** to see the Test cases in the suite
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/ffad5bd9-2831-4de6-917d-4df1e8b6e58f/ascreenshot.jpeg?tl_px=0,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1033,40)
+
+
+13\. Test suit created successfully
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/1fc9e8c8-b1d9-4e05-abce-f5d4ab727c80/user_cropped_screenshot.jpeg?tl_px=582,0&br_px=1657,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,196)
+
+
+

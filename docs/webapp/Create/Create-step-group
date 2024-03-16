@@ -1,0 +1,139 @@
+---
+title: 1.1 Create Step Group
+intro: 'How to Step Group
+topics:
+  - StepGroup
+
+id: hJJa91jPoWo
+---
+
+# Step Group Create
+
+This guide provides three different methods for creating a Step Group in the ContextQA. It explains how to create a Step Group by cloning a Testcase, cloning Steps, or directly creating one from the Step Group section. By following this guide, users can efficiently organize and manage their Step Groups for easier navigation and testing.
+
+
+We have 3 different ways to create a Step Group
+
+
+**Method 1 - Creating StepGroup by Cloning Testcase**
+
+
+
+1\. Navigate to **ContextQA Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/18de6eda-3ece-4ca1-9e55-db7b11583d23/ascreenshot.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-2,235)
+
+
+2\. Click on **Testcase**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/b303612b-41c3-4c4e-bc09-01d0da851f92/ascreenshot.jpeg?tl_px=211,0&br_px=1394,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,232)
+
+
+3\. Click on **Clone** icon
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/6b1bdbc6-ffee-4f68-8cc8-930faf1220d7/ascreenshot.jpeg?tl_px=737,0&br_px=1920,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=813,5)
+
+
+4\. Select **Step Group**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/dcdfdf4b-48bb-4bbc-8fc2-1dd458c5a8ab/ascreenshot.jpeg?tl_px=299,36&br_px=1482,697&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+5\. **Rename** the Testcase
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/51255376-a46a-45ef-bff5-80dc52130acc/ascreenshot.jpeg?tl_px=139,117&br_px=1322,778&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+6\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/b667edab-c42e-45b2-9329-876032b8cc54/ascreenshot.jpeg?tl_px=568,241&br_px=1751,902&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=523,277)
+
+
+7\. Step Group is **created successfully**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/5ac1510f-ae23-4edf-8cc2-acba53aad9cd/ascreenshot.jpeg?tl_px=118,0&br_px=1301,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,121)
+\.
+
+
+**Method 2 - Creating StepGroup by Cloning Steps**
+
+
+1\. Navigate to **ContextQA Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/32743284-3534-480d-b8df-4bd7605d4a03/File.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-2,235)
+
+
+2\. Click on **Testcase**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/d4db0bea-9028-4bd0-80bf-7dce6317376e/ascreenshot.jpeg?tl_px=132,0&br_px=1315,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,217)
+
+
+3\. Select the required **TestSteps**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/9d7b28b8-1d43-42ae-a487-922f92ec4eed/ascreenshot.jpeg?tl_px=0,251&br_px=1182,911&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=125,372)
+
+
+4\. Click **on Create Step Group**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/fdca739f-e27c-484b-b063-4ba053202702/ascreenshot.jpeg?tl_px=737,0&br_px=1920,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=934,236)
+
+
+5\. **Rename** the StepGroup
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/af2998c0-355e-4d9a-b4c8-a428dfe1e016/ascreenshot.jpeg?tl_px=142,115&br_px=1325,776&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+6\. Select **Create**( For creating a new StepGroup)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/5f7619e5-31f9-4655-a4f3-05e982c7314a/user_cropped_screenshot.jpeg?tl_px=377,222&br_px=1560,883&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=523,277)
+
+
+7\. Click on **Create and Replace** (This option will create a New StepGroup and also replaces the current steps into a StepGroup).
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/8e0d6132-9e39-4134-8c91-dcadfbabb654/user_cropped_screenshot.jpeg?tl_px=535,225&br_px=1718,886&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+8\. It merged all steps into one single StepGroup
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/f907ba56-093e-4cb7-8e0b-950403df3b42/ascreenshot.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=2,214)
+\.
+
+
+**Method 3 -  Creating StepGroup from StepGroup section**
+
+
+1\. Navigate to **Test Development** and Click on **Step Groups**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/f6b676ea-1d13-48ba-b558-e0f9e0d2b53b/user_cropped_screenshot.jpeg?tl_px=57,0&br_px=1240,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,4)
+
+
+2\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/a8c521df-0c35-4fd6-aa5a-580a7438afb3/user_cropped_screenshot.jpeg?tl_px=737,0&br_px=1920,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=995,4)
+
+
+3\. Click on **Name** field
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/5bdf2cf0-c92b-415b-8f15-109d7344301a/ascreenshot.jpeg?tl_px=96,0&br_px=1279,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,117)
+
+
+4\. Enter all the required details
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/4ea40c45-d3bd-48c6-ab79-b97737fd1875/ascreenshot.jpeg?tl_px=281,37&br_px=1464,698&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=523,277)
+
+
+5\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/0cbbca95-bfb5-4f70-8400-14f3f4fa0720/ascreenshot.jpeg?tl_px=737,0&br_px=1920,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=555,14)
+
+
+6\. Step Group is created successfully
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/0ba7a6d4-63ed-4a77-b6bd-3deea22638de/ascreenshot.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=428,249)
+
+
+7\. Add all the required **TestSteps** to it
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/cc29eaa2-5a56-42c5-8879-340ec57a0b1b/ascreenshot.jpeg?tl_px=46,251&br_px=1229,911&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,303)
+
+

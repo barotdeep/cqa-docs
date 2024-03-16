@@ -1,0 +1,99 @@
+---
+title: Create Test Data Profile
+intro: 'How to Create Test Data Profile'
+topics:
+
+---
+# Create Test Data Profiles
+### <a name="_xkazc9r5udnp"></a>[Video](https://www.youtube.com/watch?v=ZTmJeMoPz4g&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=8)
+**Steps:** 
+
+
+
+
+1\. Navigate to **Test Development section**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/0907edca-3070-4213-a775-7c4c0dc2a264/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=2,227)
+
+
+2\. Click on **Test Data Profiles**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/0aab3da8-24ec-4e6a-abb2-13213b4fe192/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=168,226)
+
+
+3\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/68c6994d-ee43-4e83-8756-83acc9d53a4e/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=743,7)
+
+
+4\. Give a name for your Test Data profile
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/3e7a7041-63ec-4b4f-afc2-2c5ed10a93b7/ascreenshot.jpeg?tl_px=48,0&br_px=1123,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,157)
+
+
+5\. Enter the **Parameters**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/1cea779c-f015-4540-8fa7-da97497fa522/ascreenshot.jpeg?tl_px=663,35&br_px=1738,636&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+6\. Click on **plus icon** to add more parameter columns
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/d3ceba28-f096-4985-8461-e252d0dfced7/ascreenshot.jpeg?tl_px=844,24&br_px=1920,625&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=972,265)
+
+
+7\. Enter the EMAIL parameter 
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/b8b2ae8e-74a9-42cf-8347-e0972dd3799f/ascreenshot.jpeg?tl_px=844,20&br_px=1920,621&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=978,265)
+
+
+8\. Enter the PASSWORD parameter
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/9b198096-ad1e-4a9e-9576-bc26d52fa8f7/user_cropped_screenshot.jpeg?tl_px=844,40&br_px=1920,641&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=842,265)
+
+
+9\. Click on **Set Name** and **Enter a name**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/686099aa-6fd9-4b9c-844d-8b53c91b1748/user_cropped_screenshot.jpeg?tl_px=0,102&br_px=1075,703&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=396,265)
+
+
+10\. Add all the required User_1 values
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/247e0552-24dd-4842-a230-c2955939350a/user_cropped_screenshot.jpeg?tl_px=844,95&br_px=1920,696&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=839,265)
+
+
+11\. Click on **plus icon** to create User 2 details
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/c6a8b1ad-b98c-4dfc-a324-402858d647ab/File.jpeg?tl_px=0,152&br_px=1075,753&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=190,265)
+
+
+12\. Add all the required User_2 details
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/5e9e1008-1f8f-4086-8daf-9b654753f4bb/user_cropped_screenshot.jpeg?tl_px=844,154&br_px=1920,755&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=831,265)
+
+
+13\. Click on **plus icon** and create User 3
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/51ba41c2-36ef-44d8-8a15-268ac2c32bdc/ascreenshot.jpeg?tl_px=0,212&br_px=1075,813&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=321,265)
+
+
+14\. Give a name for 3rd user
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/45a7964f-ff9d-4ce4-a36b-e02699fa28d7/user_cropped_screenshot.jpeg?tl_px=0,209&br_px=1075,810&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=433,265)
+
+
+15\. All User_3 details have been added
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/18c332f6-6372-415a-977f-de06f9bcc7a7/user_cropped_screenshot.jpeg?tl_px=844,204&br_px=1920,805&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=825,265)
+
+
+16\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/93cf81c6-4491-479d-8caf-c080c0f254ef/user_cropped_screenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=816,9)
+
+
+17\. Test Data Profile is created successfully
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/ebc12be0-4cb5-449c-8922-e6804b3cfc5c/ascreenshot.jpeg?tl_px=52,0&br_px=1127,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,196)
+
+
+

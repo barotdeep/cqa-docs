@@ -7,10 +7,13 @@ topics:
 id: hJJa91jPoWo
 ---
 
-## Video
-[Video](https://youtu.be/hJJa91jPoWo)
+
+
 
 # Create Test Case
+
+### [__Video__](https://youtu.be/hJJa91jPoWo)
+
 
 This guide provides a step-by-step process to create a test case on the ContextQA platform. By following these instructions, users can easily navigate to the test case creation page, enter the necessary details, and create a new test case.
 

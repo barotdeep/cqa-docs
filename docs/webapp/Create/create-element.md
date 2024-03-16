@@ -1,0 +1,59 @@
+---
+title: Create Element
+intro: 'How to Create Element'
+topics:
+
+---
+
+
+
+# Create Element Manually
+
+This guide provides step-by-step instructions on how to create an element in ContextQA. By following these instructions, users can easily create a new element and customize its name, screen name, and value, making it a useful resource for anyone looking to efficiently navigate and utilize ContextQA's features.
+
+1\. Navigate to **Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/740e87d6-661d-4f99-94f3-a5f0009009a7/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=5,224)
+
+
+2\. Click **Elements**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/dfbe3b77-4e6f-431d-afcb-7f0909353cf1/File.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=150,178)
+
+
+3\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/9434be10-63e2-4bbb-9eae-f42b52ad60ee/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=940,-9)
+
+
+4\. Click the **Name** field and type **Username**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/39cfc287-3544-4713-a495-0b45d38ff40a/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=740,78)
+
+
+5\. Click the **Screen Name** field and Enter the **Name** or select the **Default Screen**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/008065e0-e571-46c9-8910-bf206388fa52/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=855,150)
+
+
+6\. Click the **Enter Value** field and **Enter the value/Xpath**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/9fb38c01-aa08-46c4-8f98-9db26a3e8f25/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=712,230)
+
+
+7\. Click here to add **Label**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/27aaab04-46ed-4b78-8782-f3f7e4f195ff/ascreenshot.jpeg?tl_px=834,80&br_px=1909,681&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+8\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/6694c056-5971-497b-aa04-d1bea8e05089/ascreenshot.jpeg?tl_px=844,311&br_px=1920,912&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=930,520)
+
+
+9\. Element will be **added successfully** in the Element section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-05/f65d344d-8f19-4644-81c9-52df222776f6/user_cropped_screenshot.jpeg?tl_px=204,0&br_px=1279,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,135)
+
+
+
