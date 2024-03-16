@@ -1,4 +1,4 @@
-# Step Group Create
+# Create Step Group
 \
 This guide provides three different methods for creating a Step Group in the ContextQA. It explains how to create a Step Group by cloning a Testcase, cloning Steps, or directly creating one from the Step Group section. By following this guide, users can efficiently organize and manage their Step Groups for easier navigation and testing.
 
