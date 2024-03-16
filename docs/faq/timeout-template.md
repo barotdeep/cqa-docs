@@ -27,7 +27,7 @@
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/6d8429b4-5bba-42f2-b4b7-27870e03285d/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=960,252)
 
 
-6\. Enter **300** seconds in test-data and Click on **Create**
+6\. Enter **100** seconds in test-data and Click on **Create**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/8c48fc5d-1240-40f5-aed4-d9d84071e594/ascreenshot.jpeg?tl_px=844,120&br_px=1920,721&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=657,265)
 
