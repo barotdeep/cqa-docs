@@ -1,0 +1,86 @@
+---
+title: Edit Test Suite
+intro: 'How to Edit Test Suite'
+topics:
+
+---
+# Edit Test Suite
+
+[**Video**](https://www.youtube.com/watch?v=CcYkOUTBQPg&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=10)
+
+
+This guide provides step-by-step instructions on how to edit a test suite in ContextQA. It covers navigating to the Test Development section, selecting the desired test suite, editing the name, adding or removing test cases, adding labels, and saving the changes.
+
+
+## Steps
+
+1\. Navigate to **Test Development** Section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/9a4a6540-663a-4353-a564-b85ce71bcb7f/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=4,218)
+
+
+2\. Click "Test Suites"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/40de927d-fbe9-47c7-a32d-d0932a6b2999/ascreenshot.jpeg?tl_px=0,95&br_px=1376,864&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=124,277)
+
+
+3\. Click **Testing_suite** (User can select any test case to edit)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/10684af3-4149-4a51-a0c4-716905c7b301/ascreenshot.jpeg?tl_px=0,111&br_px=1075,712&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=447,265)
+
+
+4\. Click **Testing_suit**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/001b7648-df11-4fcd-b208-fd8b140d4383/ascreenshot.jpeg?tl_px=433,0&br_px=1508,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,95)
+
+
+5\. Click on **Edit** (**Pencil Icon**)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/344d8434-10b0-44f1-b35b-c83ba5585415/ascreenshot.jpeg?tl_px=203,0&br_px=1923,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=955,-12)
+
+
+6\. Click on **Name field** and rename it
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/131f9e7e-1ebb-44da-ad7d-915330d7878f/ascreenshot.jpeg?tl_px=0,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=368,83)
+
+
+7\. Click **+Add Test Cases**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/b71e65f7-ff95-486b-a121-549763017e1b/ascreenshot.jpeg?tl_px=0,0&br_px=1719,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=268,394)
+
+
+8\. **Select** the Testcase to add
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/64c3f90b-eb6c-4ebb-99ec-5271ed79676a/ascreenshot.jpeg?tl_px=0,0&br_px=1719,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=424,260)
+
+
+9\. Click on the **Right arrow** to add the Testcases
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/e2d5f75c-2f09-4f36-98fa-e7808ffbfee3/ascreenshot.jpeg?tl_px=546,62&br_px=1923,831&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+10\. Click **Save**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/dbb5e085-77fa-4158-aed0-663369872947/ascreenshot.jpeg?tl_px=203,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=938,527)
+
+
+11\. Click on **Labels**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/b3a6cc0b-beeb-4cfc-a7e9-463c52d146ed/ascreenshot.jpeg?tl_px=0,0&br_px=1719,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=423,495)
+
+
+12\. Click **#TestSuit** or add any label
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/fbedc4ce-e3c7-4790-81c3-de535d21ee30/ascreenshot.jpeg?tl_px=0,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=219,463)
+
+
+13\. Click on **Update**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/038c30c4-61be-46f4-b3b1-0b1f605f2ed1/ascreenshot.jpeg?tl_px=0,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=893,488)
+
+
+14\. Test Suit is **Edited** and **updated successfully**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/0b39a9c5-3d33-4572-9e6f-584e0e0cf63a/ascreenshot.jpeg?tl_px=0,0&br_px=1923,962&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=89,-14)
+
+

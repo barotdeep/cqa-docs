@@ -1,0 +1,138 @@
+---
+title: Edit Test Plan
+intro: 'How to Edit Plan'
+topics:
+---
+
+
+# Edit Test Plan
+
+This guide provides step-by-step instructions on how to edit a test plan in ContextQA. It covers tasks such as changing the name and description of the plan, adding new test suites, and creating new machines or devices for testing. By following these steps, users can easily update and customize Test Plans to meet specific requirements.
+
+**Steps**: 
+
+1\. Navigate to **Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/03d9a162-9a2d-4ba1-913c-852ae431ab05/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=2,221)
+
+
+2\. Click on **Test Plans**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/dc2124b8-bc72-42c2-9cf7-b9d5dad26706/File.jpeg?tl_px=0,222&br_px=1075,823&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=171,265)
+
+
+3\. **Click on Testplan** which needs to edited
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/718ed5ff-5411-46d5-9002-f3c032fae49a/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=340,179)
+
+
+4\. Click on **Edit (Pencil icon)**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/70de7d9d-6273-46da-9f89-59670ddcd84a/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=845,15)
+
+
+5\. **Rename** your Testplan (if required)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/e92ad54c-d9a3-48e5-8dc0-b21367693d24/ascreenshot.jpeg?tl_px=25,85&br_px=1100,686&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+6\. Adding Description (Optional)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/dca4eb5b-67ea-49da-be1f-1683044e06b5/ascreenshot.jpeg?tl_px=34,249&br_px=1109,850&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+7\. Edit the Parallel Node (Optional)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/a08eba0b-7748-4713-87f9-38ce24b5d1ae/ascreenshot.jpeg?tl_px=0,0&br_px=1719,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=310,436)
+
+
+8\. Click on **Next**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/517e1691-4efa-4d8c-acf7-62d7a158694a/ascreenshot.jpeg?tl_px=0,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1052,-12)
+
+
+9\. You can Add Test Suites (Optional)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/7f850d64-a954-4d14-8499-76d684393744/ascreenshot.jpeg?tl_px=317,142&br_px=1693,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,519)
+
+
+10\. Select the required Test Suites
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/48007948-081b-4fbf-8b5c-03246d9acd86/ascreenshot.jpeg?tl_px=12,0&br_px=1388,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=523,261)
+
+
+11\. Click on **Right arrow** to Add selected Test Suites
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/0dc27e19-95f8-465a-bb6d-d826de681845/ascreenshot.jpeg?tl_px=494,41&br_px=1870,810&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+12\. Click on **Add**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/fb4a0576-a99d-468d-b239-c71861c43d2d/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=904,482)
+
+
+13\. Select the Test Suites
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/63a2aee8-1b73-4d7c-b2f4-78e05a1b6c5f/ascreenshot.jpeg?tl_px=307,20&br_px=1683,789&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,276)
+
+
+14\. Click on **Add Machine/Device**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/5001bd69-70e5-48ce-9aa3-04a5d8223fef/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=742,158)
+
+
+15\. Click on **Create new Machine**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/d19d90f2-85dd-4bc3-99bc-50290dc665ff/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=707,200)
+
+
+16\. **Enter a name** for your Machine/Device
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/827b408f-9373-422d-8809-2398384a9ac6/ascreenshot.jpeg?tl_px=0,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=614,56)
+
+
+17\. Click on **None** (user can choose different options based to requirements)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/5efc5af9-6566-4a55-9920-3ea505f48383/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=853,177)
+
+
+18\. **Select Platform** by clicking on the dropdown
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/78565498-86e6-4b2b-9b47-c8fc07fdf54a/ascreenshot.jpeg?tl_px=463,0&br_px=1840,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,274)
+
+
+19\. Click on **Browser** or **Devices**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/0e59cb5f-dd83-4c6b-a72d-aa0ccc8cfe4c/ascreenshot.jpeg?tl_px=575,124&br_px=1650,725&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+20\. Click on Browser dropdown icon
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/3b34f0d0-02f6-4b00-ac2d-db38065276dd/ascreenshot.jpeg?tl_px=779,86&br_px=1854,687&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+21\. Click on **Microsoft Edge** or other browser accordingly
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/c14c911a-f661-4f86-ab9f-713feefb2cb3/ascreenshot.jpeg?tl_px=733,265&br_px=1808,866&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+22\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/f4c5f553-22f6-4a2a-b47a-e28badc24d3e/ascreenshot.jpeg?tl_px=544,142&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1014,555)
+
+
+23\. Click on **Next**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/55c9907f-dee8-4e56-b59b-262b8179a0a0/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1037,-11)
+
+
+24\. Click on **Update**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/4e48cb0c-89bb-4ae2-a04b-2428270c3f1a/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1031,-17)
+
+
+25\. Test Plan **Edited Successfully**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/4da3bd3f-af49-42f5-904c-bed6d9262036/ascreenshot.jpeg?tl_px=0,0&br_px=1719,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=179,-2)
+
+

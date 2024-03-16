@@ -1,5 +1,5 @@
 ---
-title: 1.3 Delete Test Case
+title: Delete Test Case
 intro: 'How to Delete Test Case'
 topics:
   - TestCase
