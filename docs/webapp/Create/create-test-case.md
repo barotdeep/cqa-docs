@@ -1,5 +1,5 @@
 ---
-title: 1.1 Create Test Case
+title: Create Test Case
 intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
