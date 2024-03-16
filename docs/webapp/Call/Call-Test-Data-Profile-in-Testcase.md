@@ -1,0 +1,87 @@
+# Call Test Data Profile in Testcase
+
+
+This guide provides step-by-step instructions on how to call a test data profile in a testcase. It explains how to navigate to the necessary sections, add the required steps, select the test data profile, and set the start and end parameters. Following this guide will ensure that the test data profile is added successfully with all the necessary details.
+
+## **Steps**
+
+\
+1\. Navigate to **Test Development Section**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/ffbc9a87-d1f1-46b0-8442-d61f02bbf0ff/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=0,226)
+
+\
+2\. Click on **Testcase**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/7adb7676-617d-4a63-89d4-d4ab0624b780/ascreenshot.jpeg?tl_px=335,0&br_px=1410,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,213)
+
+\
+\
+3\. Click on **Add Step**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/4e8837a0-e61e-48e5-a972-dfb84b79fe6c/ascreenshot.jpeg?tl_px=452,0&br_px=1527,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,212)
+
+
+4\. Click on **dotted icon**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/53b79f00-e033-456c-89ae-361cc2e63437/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=68,243)
+
+\
+\
+5\. Click on **For Loop**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/e0f384ef-882d-44d1-a3ca-06a2badc7443/ascreenshot.jpeg?tl_px=0,127&br_px=1075,728&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=125,265)
+
+\
+\
+6\. Test Data profile step is added
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/2c0f8c5e-2fb2-43ce-a1fe-e394fb063922/ascreenshot.jpeg?tl_px=287,11&br_px=1362,612&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+\
+\
+7\. Click the Test Data Profile **dropdown icon**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/5f8e2f3d-f174-4150-bdab-fd653316d1fd/ascreenshot.jpeg?tl_px=2,0&br_px=1077,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,251)
+
+\
+\
+8\. Click on the required **Test Data profile**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/11766e9a-7a1f-4516-8632-da53272845b3/ascreenshot.jpeg?tl_px=0,142&br_px=1075,743&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=420,265)
+
+\
+\
+9\. Click on the **Start** (dropdown icon)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/0c744e4f-96ae-40bc-be26-d91fb1eb403d/ascreenshot.jpeg?tl_px=404,0&br_px=1479,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,245)
+
+
+10\. Select the **Parameter** **values** from where it needs to **Start**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/c4334fb4-c675-4aac-9a41-e14d743cf8d8/ascreenshot.jpeg?tl_px=262,80&br_px=1337,681&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+\
+\
+11\. Click on **End** (dropdown icon)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/67349206-817a-430d-86a2-2ab65af40b13/ascreenshot.jpeg?tl_px=825,0&br_px=1900,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,251)
+
+
+12\. Select the **Parameter values** where it should **End**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/790493d0-1404-40e4-ae79-9abb331d15ef/ascreenshot.jpeg?tl_px=742,116&br_px=1817,717&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+13\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/0e57d709-c87b-468f-a7f1-b4b23d4afef7/ascreenshot.jpeg?tl_px=844,64&br_px=1920,665&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=953,265)
+
+
+14\. The Test Data Profile step is added successfully with all details
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/0571a55a-4cdb-41ac-a5f3-618eb6da52b6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=360,243)
+
+
+

@@ -1,0 +1,57 @@
+# Call/Use Step Group in Testcase
+
+This guide provides a step-by-step process for using a step group in the testcase. By following these instructions, users can easily navigate to the desired page, select the necessary options, and use a step group for their testing purposes. This guide is useful for anyone looking to streamline their testing process and improve efficiency.
+
+## **Steps**
+
+\
+1\. Navigate to **Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/6df20a99-f5a6-45a4-afd3-1f6fd1d1a808/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=0,222)
+
+\
+2\. Click on **Testcase**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/0d26189c-add1-4116-be89-4613323be8eb/File.jpeg?tl_px=107,0&br_px=1182,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,215)
+
+\
+3\. Click **3dot icon** next to Test step
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/c540032c-1c9c-4326-bf90-535df2dc034d/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=68,242)
+
+\
+4\. Click on **Step Group**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/f500e57f-fa73-4cac-a96f-fd6d2bb16ff6/user_cropped_screenshot.jpeg?tl_px=0,77&br_px=1075,678&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=130,265)
+
+\
+\
+5\. Click on **Dropdown icon**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/f72a84e8-8d6b-42ab-9dfa-e8bb91aa3477/ascreenshot.jpeg?tl_px=203,0&br_px=1923,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=981,141)
+
+\
+\
+6\. Click on the required **Step Group**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/7e8b4f13-866e-4d98-8786-f6c7cd33563e/user_cropped_screenshot.jpeg?tl_px=0,133&br_px=1376,902&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=178,276)
+
+\
+\
+7\. Click on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/3903ccce-05f2-4457-87f4-a73f9fed9170/ascreenshot.jpeg?tl_px=203,0&br_px=1923,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1033,211)
+
+\
+\
+8\. Click **plus icon** to see the steps of StepGroup
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/ff034a5e-fc65-486e-bce9-c2d6a98ac1bd/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=173,240)
+
+\
+\
+9\. Step group is **added successfully**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/413b8e5e-de75-4df0-999b-5b77e6bac576/user_cropped_screenshot.jpeg?tl_px=0,95&br_px=1376,864&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=325,277)
+
+

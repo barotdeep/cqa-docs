@@ -1,0 +1,95 @@
+---
+title: Run Test Case
+intro: 'How to Run Test Case'
+topics:
+  - TestCase
+---
+
+# Run Testcase
+
+
+
+
+This guide provides step-by-step instructions on how to navigate and monitor test execution progress in a web application. It covers topics such as accessing test cases, running tests, viewing run results, and analyzing test execution details. It also highlights the features of auto-refresh, recorded videos, trace view, and visual regression screenshots.
+
+**Steps**: 
+
+\
+1\. Navigate to the **Testcase**
+
+\
+2\. Click on the **Testcase**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/99862d46-e66a-4bb2-9915-241ba3562bb3/ascreenshot.jpeg?tl_px=101,96&br_px=1284,757&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+\
+3\. All steps are listed successfully
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/82f8581e-6efd-4705-8553-cb125410150f/ascreenshot.jpeg?tl_px=190,131&br_px=1373,792&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+\
+\
+4\. Click **Run** to start the execution
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/542d9e91-c57a-4efb-95f4-15d35df6a330/user_cropped_screenshot.jpeg?tl_px=737,0&br_px=1920,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=630,1)
+
+
+5\. It will redirect you to **Run results** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/7fa0e6a9-d024-44ee-8bf8-d85a4f7f2011/user_cropped_screenshot.jpeg?tl_px=20,0&br_px=1203,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,237)
+
+\
+\
+6\. Auto refresh is set for **60sec** bydefault. You can change the seconds here
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/a2908a04-0d15-43c9-8dff-c7e76154cc28/ascreenshot.jpeg?tl_px=608,0&br_px=1791,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,222)
+
+\
+\
+7\. After Successful execution the page look like this
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/9b7ab0b5-e4a6-48dc-a2fc-8ddc095ae148/ascreenshot.jpeg?tl_px=96,102&br_px=1279,763&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+\
+\
+8\. Click on the **Testcase Execution**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/5ecbc8f9-ad85-4054-a45a-384d7d753c38/ascreenshot.jpeg?tl_px=194,1&br_px=1377,662&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+\
+\
+9\. You be redirected to **Run details** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/fa1a4499-3477-44d6-8b32-a052df3ae8f7/user_cropped_screenshot.jpeg?tl_px=0,15&br_px=1182,676&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=441,277)
+
+\
+\
+10\. Here will be the recorded video with all the steps
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/6e1be452-2c7c-493c-aa47-0b9a1e81bdd4/ascreenshot.jpeg?tl_px=0,164&br_px=1182,825&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=309,277)
+
+\
+\
+11\. **Trace view** sections showing complete details of each stage
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/c51376dd-70f5-408c-9379-ad75843c3f53/user_cropped_screenshot.jpeg?tl_px=737,251&br_px=1920,911&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=599,377)
+
+\
+\
+12\. Click on **TestSteps(Executed)**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/8a3a51aa-8690-4205-bd0e-9ef8112011b7/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=397,216)
+
+\
+\
+13\. The **Eye Icon** is an indication of Visual regression provided by the screenshot in the right side.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/acd4aa72-4f36-4ddd-9210-f4ef0d38fb41/user_cropped_screenshot.jpeg?tl_px=617,189&br_px=1800,850&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+14\. Here is the screenshot of **Visual regression**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/5c3d9193-00ba-4b79-8086-35d8907cd39d/user_cropped_screenshot.jpeg?tl_px=737,251&br_px=1920,911&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=782,288)
+
+
+

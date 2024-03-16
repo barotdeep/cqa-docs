@@ -1,0 +1,68 @@
+---
+title: Run Details
+intro: Run Details
+topics:
+  - TestCase
+---
+# Run Details section
+
+This guide provides detailed information on the Run Details section of a Testcase. It explains how to access and interpret the graph, execution time and date, and the execution summary. It also highlights the auto-heal feature, allows downloading of videos, and provides a trace view section for in-depth analysis of API calls and logs. Viewing this guide will help users understand and utilize the various features and information available in the Run Details section effectively.
+
+
+## **Steps**
+
+\
+1\. Navigate to **Run Details** section of Testcase
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/6dd40b51-6507-4b65-a4f7-b6e510d8e443/ascreenshot.jpeg?tl_px=0,0&br_px=806,450&force_format=png&width=806&wat_scale=71&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=322,42)
+
+\
+\
+2\. The Tiny graph states Number of Test steps passed
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/9f360915-76ad-42ad-ab93-96adee2dbd1c/ascreenshot.jpeg?tl_px=0,0&br_px=806,450&force_format=png&width=806&wat_scale=71&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=105,79)
+
+\
+\
+3\. The **Time and Date** of Execution started and the **time duration** it took to execute Testcase
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/fc7b9f1b-11ac-476b-a0b7-3f95f9bc5017/ascreenshot.jpeg?tl_px=0,0&br_px=806,450&force_format=png&width=806&wat_scale=71&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=234,80)
+
+\
+\
+4\. Click on **More details** it will display a popup with execution summary
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/f488c8fd-ca13-4950-86b5-987ab67c94ad/ascreenshot.jpeg?tl_px=322,0&br_px=1129,450&force_format=png&width=806&wat_scale=71&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=377,84)
+
+\
+\
+5\. Here is the Execution summary of current Testcase
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/105a65cc-9d51-4d60-95bf-45bfb9050e19/ascreenshot.jpeg?tl_px=168,0&br_px=1887,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,296)
+
+\
+\
+6\. **Auto-heal** automatically adjusts to minor variations in the Test steps, highlighting which steps underwent auto-healing along with their accuracy levels. It also shows the state of the steps before and after auto-healing was applied.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/a610704d-288b-4204-8f51-8658aaf37a50/ascreenshot.jpeg?tl_px=0,0&br_px=1146,640&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=288,231)
+
+\
+\
+7\. Click on the dotted icon to **Download** the video, adjust **Playback speed** and to view **picture in picture**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/23ce210b-0411-4dff-b480-25e790170a50/user_cropped_screenshot.jpeg?tl_px=82,271&br_px=1229,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,427)
+
+\
+\
+8\. The Trace View section displays API calls made every second, alongside all actions and associated metadata
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/3daa0e76-5f09-4841-b564-2a3823a2f58d/user_cropped_screenshot.jpeg?tl_px=653,164&br_px=1636,713&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=459,243)
+
+\
+\
+9\. This section displays all the Calls, Errors, Console Logs, Network Logs for a detailed understanding
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/19fde925-6327-4e84-be82-b513dd26fa22/user_cropped_screenshot.jpeg?tl_px=626,362&br_px=1609,912&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=459,458)
+
+
+
