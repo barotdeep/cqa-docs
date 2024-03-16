@@ -11,14 +11,14 @@ id: hJJa91jPoWo
 
 This guide provides three different methods for creating a Step Group in the ContextQA. It explains how to create a Step Group by cloning a Testcase, cloning Steps, or directly creating one from the Step Group section. By following this guide, users can efficiently organize and manage their Step Groups for easier navigation and testing.
 
-
+\
 We have 3 different ways to create a Step Group
 
-
+\
 **Method 1 - Creating StepGroup by Cloning Testcase**
 
 
-
+\
 1\. Navigate to **ContextQA Test Development** section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/18de6eda-3ece-4ca1-9e55-db7b11583d23/ascreenshot.jpeg?tl_px=0,0&br_px=1182,660&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-2,235)
