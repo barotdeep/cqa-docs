@@ -5,9 +5,11 @@ topics: data-profile
 ---
 
 # Delete Test Data Profile
-#### [Made by Deep Barot with Scribe](https://scribehow.com/shared/Delete_Test_Data_Profile__FCmYFH8aTN-RlQ4i-anMEw)
+
+\
 This guide provides a quick and easy step-by-step process to delete a test data profile in ContextQA. By following these steps, users can efficiently navigate to the necessary page, confirm the deletion, and successfully remove the test data profile from their system.
 
+\
 1\. Navigate to **Test Development** section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-04/b2f9650d-0e44-451e-a480-e46cf1ed5af9/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=2,218)

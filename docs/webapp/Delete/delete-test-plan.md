@@ -1,0 +1,50 @@
+---
+title: Delete Test Plan
+intro: 'How to Delete Test Plan'
+topics:
+---
+
+# Test Plan Delete
+
+This guide provides step-by-step instructions on how to delete a Test Plan in ContextQA. It explains how to navigate to the Test Plans section, click on the delete button, confirm the deletion by entering a specific keyword, and successfully delete the Test Plan. Following this guide will help users effectively delete a Test Plan in ContextQA.
+
+\
+\
+1\. Navigate to **Test Development** section
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/e50119bc-5009-473e-ab50-7db9a7503a50/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1719,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-11,137)
+
+
+\
+2\. Click on **Test Plans**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/e4cf2917-0c1d-4776-8c80-0dc7404b058f/File.jpeg?tl_px=0,0&br_px=1719,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=81,309)
+
+\
+3\. Click on **Test Plan** that you want to delete
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/9a90f08c-5ed6-4a8a-85c3-eeba6a2e7288/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=479,175)
+
+\
+4\. Click on **Delete**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/3226ed32-21ae-4d38-9a53-791d4288c036/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=994,-6)
+
+\
+5\. Click the **"Enter 'DELETE' to confirm"** field
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/609ace9a-c049-44f5-b1e1-8a19821d3238/ascreenshot.jpeg?tl_px=0,0&br_px=1719,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=522,309)
+
+\
+6\. **Enter DELETE** and Click on **I understand, delete this test plan**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/fc6b5d60-a605-4d4e-9775-3c5ed5e6c027/ascreenshot.jpeg?tl_px=0,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=533,314)
+
+
+\
+7\. TestPlan is **successfully Deleted**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/0b4e7638-8905-4e59-b3c4-6bddc216a259/ascreenshot.jpeg?tl_px=135,0&br_px=1854,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,353)
+
+
+

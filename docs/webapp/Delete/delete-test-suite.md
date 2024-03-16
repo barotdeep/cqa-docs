@@ -1,0 +1,53 @@
+---
+title: Delete Test Suite
+intro: 'How to Delete Test Suite'
+topics:
+
+---
+# Delete Test Suite
+
+[Video ](https://www.youtube.com/watch?v=Rc5LYfrWV9Y&list=PLfRq0FuuqhRnYtoF6kHsDdZc7ekSgpg6V&index=13)
+
+**Steps:**
+
+This guide provides step-by-step instructions on how to delete a test suite in ContextQA. It is useful for individuals who need to remove a Test Suite from their testing environment and want clear instructions on how to do so.
+
+1\. Navigate to **Test Development** section
+
+
+2\. Click **Test Suites**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-29/2cca5bb3-36d9-4a8c-be0c-4a1f599ee74c/user_cropped_screenshot.jpeg?tl_px=0,179&br_px=1075,780&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=168,265)
+
+
+3\. **Click on TestSuite** which needs to be deleted
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/5a2c23b8-3a77-44d9-8f6f-79403c3ee82b/ascreenshot.jpeg?tl_px=25,107&br_px=1100,708&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+4\. Click on **Suit2**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/97f974ac-29bf-4058-966d-d13ef7af4084/ascreenshot.jpeg?tl_px=80,0&br_px=1800,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,42)
+
+
+5\. Click on **Delete icon**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/2d0b7397-3489-44af-b650-af4a158be333/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=983,-8)
+
+
+6\. Click **Enter 'DELETE' to confirm**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/fe27efa2-b9d8-42e1-9224-14f920d52c27/ascreenshot.jpeg?tl_px=80,0&br_px=1800,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,309)
+
+
+7\. Enter **DELETE** and Click on **I understand, delete this test suite**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/3b765707-0c3b-428c-bf30-9510263c03ca/ascreenshot.jpeg?tl_px=177,0&br_px=1896,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,356)
+
+
+8\. Test Suit is **Successfully Deleted**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-02-28/97f151c3-1c18-4be2-b10e-44ff9bfdd17f/ascreenshot.jpeg?tl_px=200,0&br_px=1920,912&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=531,160)
+#### [Made with Scribe](https://scribehow.com/shared/Test_Suite_Delete__yA22HSCXTa-Ma6cA5H_bQw)
+
+

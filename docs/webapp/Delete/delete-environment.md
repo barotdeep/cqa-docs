@@ -4,7 +4,7 @@ intro: 'How to Delete Environment'
 topics:
 
 ---
-## <a name="_oxn2uftcxanu"></a>9.3 **Delete Environment** 
+# **Delete Environment** 
 
 **Steps:** 
 
