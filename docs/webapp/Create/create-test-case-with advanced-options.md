@@ -3,8 +3,6 @@ title: Create Test Case with advanced options
 intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
-
-id: hJJa91jPoWo
 ---
 
 # Create - Testcase with Advanced Options

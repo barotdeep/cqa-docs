@@ -3,8 +3,6 @@ title: Edit Test Case
 intro: 'How to Edit Test Case using Low-code'
 topics:
   - TestCase
-
-
 ---
 # Edit Test Case
 

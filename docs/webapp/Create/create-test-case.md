@@ -3,12 +3,7 @@ title: Create Test Case
 intro: 'How to Create Test Case using Low-code'
 topics:
   - TestCase
-
-id: hJJa91jPoWo
 ---
-
-
-
 
 # Create Test Case
 
