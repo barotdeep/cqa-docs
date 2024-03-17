@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'webapp/add-api-step',
+            docId: 'webapp/API-Testing/api-testing',
             position: 'left',
             label: 'Docs',
           }
