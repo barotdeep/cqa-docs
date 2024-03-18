@@ -2,9 +2,6 @@
 
 This guide provides step-by-step instructions on how to perform API testing. It covers creating a test case, sending API requests, verifying responses, and executing test cases. By following this guide, users can effectively test the functionality and reliability of their APIs.
 
-## **Steps**
-
-
 1\. Navigate to **Test Development** Section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-06/7e6b4797-ff6c-4370-906d-4e247fb24b96/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=511,165)
@@ -126,6 +123,10 @@ This guide provides step-by-step instructions on how to perform API testing. It 
 25\. **Executed Successfully**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-06/99d7eb9f-65db-4eb0-b379-d185ba5724bd/ascreenshot.jpeg?tl_px=12,29&br_px=1087,630&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+
+
 
 
 
