@@ -3,7 +3,6 @@ title: Selector
 intro: 'How to use Selector Chrome Extension'
 topics:
 ---
-**Selector** 
 
 
 # Find Locater of an Element

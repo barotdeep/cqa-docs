@@ -3,9 +3,8 @@ title: Delete Test Steps
 intro: 'How to Delete Steps in Chrome Extension'
 topics:
 ---
-## <a name="_arecn6bel5w8"></a>  Delete Test Case Steps 
 
-# Delete Steps from Extension
+# Delete Test Steps from Extension
 
 This guide provides a quick and easy step-by-step process for deleting a step from an extension in ContextQA. By following these instructions, users can efficiently remove unnecessary steps and streamline their workflows, improving productivity and maintaining a clean and organized testing environment.
 

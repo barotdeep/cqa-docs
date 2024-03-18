@@ -2,7 +2,6 @@
 
 This guide provides step-by-step instructions on how to perform API testing. It covers creating a test case, sending API requests, verifying responses, and executing test cases. By following this guide, users can effectively test the functionality and reliability of their APIs.
 
-
 ## **Steps**
 
 

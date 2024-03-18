@@ -3,7 +3,6 @@ title: Highlighter Feature
 intro: 'How to Use Highlighter Feature'
 topics:
 ---
-## <a name="_tdc07vuhjc6i"></a>10. **Highlighter Feature**
 
 # Highlight feature in ContextQA Extension
 

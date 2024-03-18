@@ -1,4 +1,4 @@
-# Re-record Step from Extension
+# Re-record Test Step from Extension
 
 This guide provides step-by-step instructions on how to re-record a step from an extension in ContextQA. It explains how to navigate to the test case list, select the desired test case, choose the specific step to re-record, record the new step, and save the changes. Following this guide will help users successfully re-record and update steps in ContextQA.
 
