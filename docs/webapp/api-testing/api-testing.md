@@ -3,15 +3,6 @@
 This guide provides step-by-step instructions on how to perform API testing. It covers creating a test case, sending API requests, verifying responses, and executing test cases. By following this guide, users can effectively test the functionality and reliability of their APIs.
 
 
-[**Interactive Demo**](https://app.storylane.io/share/si1ieijztdbw)
-        
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://app.storylane.io/share/si1ieijztdbw"></iframe>
-
-</div>
-
-
 ## **Steps**
 
 
