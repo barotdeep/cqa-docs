@@ -1,5 +1,5 @@
 ---
-title: Portal - Testing Terminal
+title: ContextQA - Getting Started
 intro: 'Step-by-step instructions for all the features in ContextQA portal'
 redirect_from:
   - /categories/github-pages-basics
@@ -20,3 +20,5 @@ children:
 shortTitle: Get started
 sidebar_position: 1
 ---
+
+This guide provides step-by-step instructions on how to navigate and use the ContextQA Platform.
