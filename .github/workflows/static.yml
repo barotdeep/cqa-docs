@@ -40,8 +40,16 @@ jobs:
           node-version: 18
       - name: Install dependencies
         run: yarn install --frozen-lockfile --non-interactive
+      - name: Build
+        run: yarn build
 
       - name: Setup Pages
         uses: actions/configure-pages@v1
-      
-     
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: build
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

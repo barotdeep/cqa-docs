@@ -63,12 +63,6 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'webapp/create-test-case',
-            position: 'left',
-            label: 'Docs',
-          }
         ],
       },
       footer: {
