@@ -1,6 +1,6 @@
 ---
-title: Chrome Extension
-intro: 'Chrome Extension
+title: ContextQA Extension
+intro: 'ContextQA Extension
  - Powerful Test Management and Automation Platform'
 versions:
   fpt: '*'
