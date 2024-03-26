@@ -1,12 +1,16 @@
 
 # User Guide
 
-This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections: **1. ContextQA Portal, 2. ContextQA Extension, & 3. FAQ**
+This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections: **1. ContextQA Portal, 2. ContextQA Extension, & 3. FAQ**  
 
+
+
+
+## **ContextQA Portal**
 
 *1.The ContextQA Portal section encompasses all aspects of the platform, from the Dashboard through the creation and execution of Testcases, Testsuites, and Testplans, to the establishment of multiple workspaces. Below is the list for this section.*
 
-### **ContextQA Portal**
+
 **01. Dashboard Section**  
 
     1.1 Dashboard Overview  
@@ -41,12 +45,12 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
     7.1 Report Bug
   
   
-  
-  
+
+## **ContextQA Extension** 
     
 *The **ContextQA Extension** section provides guidance on installing the Extension, as well as instructions for recording Test Steps and validating them. Below is the list for this section.*
 
-### **ContextQA Extension**
+
 **01. Install & login**  
     
     1.1 Install Extension  
@@ -74,6 +78,9 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
     5.4 Re-record Step from Extension  
     5.5 Search Testcase  
     5.6 Selector  
+
+
+## **FAQ**
 
 *The **FAQ** section addresses the most common questions posed by our users. Below is the list for this section.*
 
