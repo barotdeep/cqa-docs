@@ -3,7 +3,7 @@
 
 This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections:
 
-1. ContextQA Extension, 
+1. ContextQA Extension
 2. ContextQA Portal 
 3. FAQ
 
@@ -29,8 +29,8 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 
 **Delete**  
    
-6. Delete Test Case
-7. Delete Test Steps
+6. [Delete Test Case](./../02-ContextQA-Extension/04-Delete/4.1-delete-test-case.md)
+7. [Delete Test Steps](./../02-ContextQA-Extension/04-Delete/4.2-delete-test-steps.md)
 
 **05. Others**  
    
