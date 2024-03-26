@@ -1,7 +1,11 @@
 
 # User Guide
 
-This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections: **1. ContextQA Extension, 2. ContextQA Portal, & 3. FAQ**  
+This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections:
+
+1. ContextQA Extension, 
+2. ContextQA Portal 
+3. FAQ
 
 
 ## **ContextQA Extension** 
@@ -9,33 +13,33 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 *The **ContextQA Extension** section provides guidance on installing the Extension, as well as instructions for recording Test Steps and validating them. Below is the list for this section.*
 
 
-**01. Install & login**  
+**Install & login**  
     
-    1.1 Install Extension  
-    1.2 Login Extension  
+1. [Install Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.1-install-chrome-extension.md)
+2. [Login Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.2-login-chrome-extension.md) 
 
-**02. Create**  
+**Create**  
     
-    2.1 Create Testcase using Extension
+3. [Create Test using Extension](./../02-ContextQA-Extension/02-Create/2.1-create-a-test-case-in-chrome-extension.md)
 
-**03. Edit**  
+**Edit**  
     
-    3.1 Edit Test Case  
-    3.2 Edit Test Steps
+4. [Edit Test Case](./../02-ContextQA-Extension/03-Edit/3.1-edit-test-case.md)
+5. [Edit Test Steps](./../02-ContextQA-Extension/03-Edit/3.2-edit-test-steps.md)
 
-**04. Delete**  
+**Delete**  
    
-    4.1 Delete Test Case
-    4.2 Delete Test Steps
+6. Delete Test Case
+7. Delete Test Steps
 
 **05. Others**  
    
-    5.1 Element Dictionary in Extension  
-    5.2 Highlighter Feature  
-    5.3 Navigate through home and Testcases  
-    5.4 Re-record Step from Extension  
-    5.5 Search Testcase  
-    5.6 Selector  
+8.  Element Dictionary in Extension  
+9.  Highlighter Feature  
+10. Navigate through home and Testcases  
+11. Re-record Step from Extension  
+12. Search Testcase  
+13. Selector  
 
 
 ## **ContextQA Portal**
@@ -76,10 +80,6 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
     
     7.1 Report Bug
   
-  
-
-
-
 ## **FAQ**
 
 *The **FAQ** section addresses the most common questions posed by our users. Below is the list for this section.*
@@ -93,5 +93,4 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 **6.  Salesforce Testing**  
 **7.  How to add Timeout Template**  
 **8.  Uploading different types of file**  
-**9.  How to Verify Test Steps**  **
-
+**9.  How to Verify Test Steps**
