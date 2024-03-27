@@ -18,6 +18,7 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 1. [Install Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.1-install-chrome-extension.md)
 2. [Login Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.2-login-chrome-extension.md) 
 
+
 **Create**  
     
 3. [Create Test using Extension](./../02-ContextQA-Extension/02-Create/2.1-create-a-test-case-in-chrome-extension.md)
@@ -55,81 +56,81 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
     
 **Create**  
 
-2. [Create Test Case](./../02-Test-Development-Section/01-Create/1.1-create-test-case.md)  
-3. [Create Test Case with Advanced options](./../02-Test-Development-Section/01-Create/1.2-create-test-case-with-advanced-options.md)  
-4. [Create Test Suite](./../02-Test-Development-Section/01-Create/1.3-create-test-suite.md)  
-5. [Create Element](./../02-Test-Development-Section/01-Create/1.4-create-element.md)  
-6. [Create Step Group](./../02-Test-Development-Section/01-Create/1.5-Create-step-group.md)  
-7. [Create Test Data Profile](./../02-Test-Development-Section/01-Create/1.6-create-test-data-profile.md)  
-8. [Create Test Plan - Cross Browser](./../02-Test-Development-Section/01-Create/1.7-create-test-plan-Cross_browser.md)  
-9. [Create Test Plan - Cross Device](./../02-Test-Development-Section/01-Create/1.8-create-test-plan-cross-device.md)  
-10. [Create Environment](./../02-Test-Development-Section/01-Create/1.9-create-environment.md)  
+2. [Create Test Case](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.1-create-test-case.md)  
+3. [Create Test Case with Advanced options](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.2-create-test-case-with-advanced-options.md)  
+4. [Create Test Suite](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.3-create-test-suite.md)  
+5. [Create Element](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.4-create-element.md)  
+6. [Create Step Group](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.5-Create-step-group.md)  
+7. [Create Test Data Profile](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.6-create-test-data-profile.md)  
+8. [Create Test Plan - Cross Browser](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.7-create-test-plan-Cross_browser.md)  
+9. [Create Test Plan - Cross Device](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.8-create-test-plan-cross-device.md)  
+10. [Create Environment](./../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.9-create-environment.md)  
 
 **Edit**  
 
-11. [Edit Test Case](./../02-Test-Development-Section/02-Edit/2.1-edit-test-case.md)  
-12. [Edit Test Suite](./../02-Test-Development-Section/02-Edit/2.2-edit-test-suite.md) 
-13. [Edit Step Group](./../02-Test-Development-Section/02-Edit/2.3-edit-step-group.md)   
-14. [Edit Test Data Profile](./../02-Test-Development-Section/02-Edit/2.4-edit-test-data-profile.md)  
-15. [Edit Test Plan](./../02-Test-Development-Section/02-Edit/2.5-edit-test-plan.md)  
+11. [Edit Test Case](./../03-ContextQA-Portal/02-Test-Development-Section/02-Edit/2.1-edit-test-case.md)  
+12. [Edit Test Suite](./../03-ContextQA-Portal/02-Test-Development-Section/02-Edit/2.2-edit-test-suite.md) 
+13. [Edit Step Group](./../03-ContextQA-Portal/02-Test-Development-Section/02-Edit/2.3-edit-step-group.md)   
+14. [Edit Test Data Profile](./../03-ContextQA-Portal/02-Test-Development-Section/02-Edit/2.4-edit-test-data-profile.md)  
+15. [Edit Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/02-Edit/2.5-edit-test-plan.md)  
 
 **Delete** 
 
-16. [Delete Test Case](./../02-Test-Development-Section/03-Delete/3.1-delete-test-case.md)  
-17. [Delete Test Suite](./../02-Test-Development-Section/03-Delete/3.2-delete-test-suite.md)  
-18. [Delete Test Step](./../02-Test-Development-Section/03-Delete/3.3-delete-test-step.md)  
-19. [Delete Step Group](./../02-Test-Development-Section/03-Delete/3.4-delete-step-group.md)  
-20. [Delete Element](./../02-Test-Development-Section/03-Delete/3.5-delete-element.md)  
-21. [Delete Data Profile](./../02-Test-Development-Section/03-Delete/3.6-delete-data-profile.md)  
-22. [Delete Test Plan](./../02-Test-Development-Section/03-Delete/3.7-delete-test-plan.md)  
-23. [Delete Cross Device Test Plan](./../02-Test-Development-Section/03-Delete/3.8-delete-cross-device-test-plan.md)  
-24. [Delete Machine Devices within Test Plan](./../02-Test-Development-Section/03-Delete/3.9-delete-machine-devices-within-test-plan.md)  
+16. [Delete Test Case](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.1-delete-test-case.md)  
+17. [Delete Test Suite](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.2-delete-test-suite.md)  
+18. [Delete Test Step](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.3-delete-test-step.md)  
+19. [Delete Step Group](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.4-delete-step-group.md)  
+20. [Delete Element](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.5-delete-element.md)  
+21. [Delete Data Profile](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.6-delete-data-profile.md)  
+22. [Delete Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.7-delete-test-plan.md)  
+23. [Delete Cross Device Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.8-delete-cross-device-test-plan.md)  
+24. [Delete Machine Devices within Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/03-Delete/3.9-delete-machine-devices-within-test-plan.md)  
 
 
 
 **Call**  
 
-25. [Call Step Group in TestCase](./../02-Test-Development-Section/04-Call/4.1-Call-step-group-in-test-case.md)  
-26. [Call Test Data Profile in TestCase](./../02-Test-Development-Section/04-Call/4.2-Call-Test-Data-Profile-in-Testcase.md)  
-27. [Call Environment in TestCase](./../02-Test-Development-Section/04-Call/4.3-Call-Environment-in-Testcase.md) 
+25. [Call Step Group in TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/04-Call/4.1-Call-step-group-in-test-case.md)  
+26. [Call Test Data Profile in TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/04-Call/4.2-Call-Test-Data-Profile-in-Testcase.md)  
+27. [Call Environment in TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/04-Call/4.3-Call-Environment-in-Testcase.md) 
 
 **Run Details**  
 
-28. [Run TestCase](./../02-Test-Development-Section/05-Run-Details/5.1-run-test-case.md)  
-29. [Run History](./../02-Test-Development-Section/05-Run-Details/5.2-run-history.md)  
-30. [Run Details](./../02-Test-Development-Section/05-Run-Details/5.3-run-details.md)  
-31. [Run Details - Executed Test Steps with Visual Regression](./../02-Test-Development-Section/05-Run-Details/5.4-run-details-Executed-Test-Steps-with-visual-regression.md)  
+28. [Run TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.1-run-test-case.md)  
+29. [Run History](./../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.2-run-history.md)  
+30. [Run Details](./../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.3-run-details.md)  
+31. [Run Details - Executed Test Steps with Visual Regression](./../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.4-run-details-Executed-Test-Steps-with-visual-regression.md)  
 
 
 **Others**  
 
-32. [Add Machines devices to Test Plan](./../02-Test-Development-Section/06-Others/Add-machines-devices-to-test-plan.md)  
-33. [Add Test Steps](./../02-Test-Development-Section/06-Others/add-test-steps.md)  
-34. [AI Integrate](./../02-Test-Development-Section/06-Others/AI-Integrate.md)  
-35. [Reorder Test Steps](./../02-Test-Development-Section/06-Others/reorder-test-steps.md)  
-36. [Restore Deleted TestCase](./../02-Test-Development-Section/06-Others/restore-deleted-testcases.md)  
-37. [Upload File](./../02-Test-Development-Section/06-Others/Upload_file.md)  
+32. [Add Machines devices to Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/Add-machines-devices-to-test-plan.md)  
+33. [Add Test Steps](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/add-test-steps.md)  
+34. [AI Integrate](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/AI-Integrate.md)  
+35. [Reorder Test Steps](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/reorder-test-steps.md)  
+36. [Restore Deleted TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/restore-deleted-testcases.md)  
+37. [Upload File](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/Upload_file.md)  
 
 
 **Mobile Testing**   
         
-38. [Mobile Testing](./../03-Mobile-testing/mobile-testing.md)
+38. [Mobile Testing](./../03-ContextQA-Portal/03-Mobile-testing/mobile-testing.md)
 
 **API Testing**  
     
-39. [API Testing](./../04-API-Testing/api-testing.md)
+39. [API Testing](./../03-ContextQA-Portal/04-API-Testing/api-testing.md)
 
 ## **Workspace Settings**  
     
-40. [Create Workspace](./../06-Workspace-settings/Create-workspace.md)
+40. [Create Workspace](./../03-ContextQA-Portal/06-Workspace-settings/Create-workspace.md)
 
 ## **Jira**  
     
-41. [Enable Jira and Link issues](./../07-Jira/Enable-Jira-&-link-issues.md)
+41. [Enable Jira and Link issues](./../03-ContextQA-Portal/07-Jira/Enable-Jira-&-link-issues.md)
 
 ## **Report Bug**  
     
-42. [Report Bug](./../07-Report-Bug/Report-Bug.md)  
+42. [Report Bug](./../03-ContextQA-Portal/07-Report-Bug/Report-Bug.md)  
 
   
 # **FAQ**
