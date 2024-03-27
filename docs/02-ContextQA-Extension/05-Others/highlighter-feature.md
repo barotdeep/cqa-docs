@@ -1,8 +1,3 @@
----
-title: Highlighter Feature
-intro: 'How to Use Highlighter Feature'
-topics:
----
 
 # Highlight feature in ContextQA Extension
 
