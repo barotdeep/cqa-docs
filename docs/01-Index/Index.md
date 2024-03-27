@@ -119,15 +119,15 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
     
 39. [API Testing](./../04-API-Testing/api-testing.md)
 
-**Workspace Settings**  
+## **Workspace Settings**  
     
 40. [Create Workspace](./../06-Workspace-settings/Create-workspace.md)
 
-**Jira**  
+## **Jira**  
     
 41. [Enable Jira and Link issues](./../07-Jira/Enable-Jira-&-link-issues.md)
 
-**Report Bug**  
+## **Report Bug**  
     
 42. [Report Bug](./../07-Report-Bug/Report-Bug.md)  
 
