@@ -1,5 +1,5 @@
 
-# **User Guide**
+# User Guide
 
 This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections:
 
