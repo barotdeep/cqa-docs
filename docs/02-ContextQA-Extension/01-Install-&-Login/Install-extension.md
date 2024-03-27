@@ -1,6 +1,6 @@
-[Go to Index page](../../01-Index/Index.md)
-
 # Install ContextQA Extension
+
+[Go to Index page](../../01-Index/Index.md)
 
 This guide provides a quick and straightforward step-by-step process for adding the ContextQA extension to your Chrome browser. By following these instructions, you can easily enhance your browsing experience with this helpful tool.
 
