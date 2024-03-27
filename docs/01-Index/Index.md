@@ -15,23 +15,23 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 
 **Install & login**  
     
-1. [Install Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.1-install-chrome-extension.md)
-2. [Login Extension](./../02-ContextQA-Extension/01-Install-&-Login/1.2-login-chrome-extension.md) 
+1. [Install Extension](./../02-ContextQA-Extension/01-Install-&-Login/Install-extension.md)
+2. [Login Extension](./../02-ContextQA-Extension/01-Install-&-Login/Login-Extension.md) 
 
 
 **Create**  
     
-3. [Create Test using Extension](./../02-ContextQA-Extension/02-Create/2.1-create-a-test-case-in-chrome-extension.md)
+3. [Create Test using Extension](./../02-ContextQA-Extension/02-Create/create-a-test-case-in-chrome-extension.md)
 
 **Edit**  
     
-4. [Edit Test Case](./../02-ContextQA-Extension/03-Edit/3.1-edit-test-case.md)
-5. [Edit Test Steps](./../02-ContextQA-Extension/03-Edit/3.2-edit-test-steps.md)
+4. [Edit Test Case](./../02-ContextQA-Extension/03-Edit/Edit-Test-Case.md)
+5. [Edit Test Steps](./../02-ContextQA-Extension/03-Edit/Edit-Test-Steps.md)
 
 **Delete**  
    
-6. [Delete Test Case](./../02-ContextQA-Extension/04-Delete/4.1-delete-test-case.md)
-7. [Delete Test Steps](./../02-ContextQA-Extension/04-Delete/4.2-delete-test-steps.md)
+6. [Delete Test Case](./../02-ContextQA-Extension/04-Delete/delete-test-case.md)
+7. [Delete Test Steps](./../02-ContextQA-Extension/04-Delete/delete-test-steps.md)
 
 **Others**  
    
