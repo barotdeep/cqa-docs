@@ -1,5 +1,5 @@
 
-# User Guide
+# **User Guide**
 
 This guide offers a detailed, step-by-step walkthrough designed to help users efficiently navigate and make the most of the documentation.The documentation is organized into three main sections:
 
@@ -8,7 +8,7 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 3. FAQ
 
 
-## **ContextQA Extension** 
+# **ContextQA Extension** 
     
 *The **ContextQA Extension** section provides guidance on installing the Extension, as well as instructions for recording Test Steps and validating them. Below is the list for this section.*
 
@@ -32,17 +32,17 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 6. [Delete Test Case](./../02-ContextQA-Extension/04-Delete/4.1-delete-test-case.md)
 7. [Delete Test Steps](./../02-ContextQA-Extension/04-Delete/4.2-delete-test-steps.md)
 
-**05. Others**  
+**Others**  
    
-8.  Element Dictionary in Extension  
-9.  Highlighter Feature  
-10. Navigate through home and Testcases  
-11. Re-record Step from Extension  
-12. Search Testcase  
-13. Selector  
+8. [Element Dictionary in Extension](./../02-ContextQA-Extension/05-Others/Element-Directory-in-Extension.md)  
+9. [Highlighter Feature](./../02-ContextQA-Extension/05-Others/highlighter-feature.md)  
+10. [Navigate through home and Testcases](./../02-ContextQA-Extension/05-Others/navigate-through-home-and-testcases-in-the-contextqa-extension.md)  
+11. [Re-record Step from Extension](./../02-ContextQA-Extension/05-Others/re-record-step-from-extension.md)  
+12. [Search Testcase](./../02-ContextQA-Extension/05-Others/search-test-case.md)  
+13. [Selector](./../02-ContextQA-Extension/05-Others/selector.md)  
 
 
-## **ContextQA Portal**
+# **ContextQA Portal**
 
 *The **ContextQA Portal** section encompasses all aspects of the platform, from the Dashboard through the creation and execution of Testcases, Testsuites, and Testplans, to the establishment of multiple workspaces. Below is the list for this section.*
 
@@ -94,45 +94,55 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 27. [Call Environment in TestCase](./../02-Test-Development-Section/04-Call/4.3-Call-Environment-in-Testcase.md) 
 
 **Run Details**  
-28. [Run TestCase](./../02-Test-Development-Section/05-Run Details/5.1-run-test-case.md)  
-29. [Run History](./../02-Test-Development-Section/05-Run Details/5.2-run-history.md)
-30. [Run Details](./../02-Test-Development-Section/05-Run Details/5.3-run-details.md)
-31. [Run Details - Executed Test Steps with Visual Regression](./../02-Test-Development-Section/05-Run Details/5.4-run-details-Executed-Test-Steps-with-visual-regression.md)
+
+28. [Run TestCase](./../02-Test-Development-Section/05-Run-Details/5.1-run-test-case.md)  
+29. [Run History](./../02-Test-Development-Section/05-Run-Details/5.2-run-history.md)  
+30. [Run Details](./../02-Test-Development-Section/05-Run-Details/5.3-run-details.md)  
+31. [Run Details - Executed Test Steps with Visual Regression](./../02-Test-Development-Section/05-Run-Details/5.4-run-details-Executed-Test-Steps-with-visual-regression.md)  
+
 
 **Others**  
 
+32. [Add Machines devices to Test Plan](./../02-Test-Development-Section/06-Others/Add-machines-devices-to-test-plan.md)  
+33. [Add Test Steps](./../02-Test-Development-Section/06-Others/add-test-steps.md)  
+34. [AI Integrate](./../02-Test-Development-Section/06-Others/AI-Integrate.md)  
+35. [Reorder Test Steps](./../02-Test-Development-Section/06-Others/reorder-test-steps.md)  
+36. [Restore Deleted TestCase](./../02-Test-Development-Section/06-Others/restore-deleted-testcases.md)  
+37. [Upload File](./../02-Test-Development-Section/06-Others/Upload_file.md)  
 
-# **Mobile Testing**   
+
+**Mobile Testing**   
         
-8. Mobile Testing
+38. [Mobile Testing](./../03-Mobile-testing/mobile-testing.md)
 
 **API Testing**  
     
-9. API Testing
+39. [API Testing](./../04-API-Testing/api-testing.md)
 
 **Workspace Settings**  
     
-10. Create Workspace
+40. [Create Workspace](./../06-Workspace-settings/Create-workspace.md)
 
 **Jira**  
     
-11. Enable Jira and Link issues
+41. [Enable Jira and Link issues](./../07-Jira/Enable-Jira-&-link-issues.md)
 
 **Report Bug**  
     
-12. Report Bug
+42. [Report Bug](./../07-Report-Bug/Report-Bug.md)  
+
   
-## **FAQ**
+# **FAQ**
 
 *The **FAQ** section addresses the most common questions posed by our users. Below is the list for this section.*
 
 
-**1.  How to add Network idle Template**  
-**2.  How to add Page Display Templates**  
-**3.  How to add Test step to Visit a page**  
-**4.  How to add Wait Template**  
-**5.  How to Switch Tabs using Template**  
-**6.  Salesforce Testing**  
-**7.  How to add Timeout Template**  
-**8.  Uploading different types of file**  
-**9.  How to Verify Test Steps**
+1.  [How to add Network idle Template](./../04-FAQ/how-to-add-network-idle-template.md)
+2.  [How to add Page Display Templates](./../04-FAQ/how-to-add-page-display-templates.md)  
+3.  [How to add Test step to Visit a page](./../04-FAQ/how-to-add-test-step-to-visit-a-page.md)
+4.  [How to add Wait Template](./../04-FAQ/how-to-add-wait-template.md)
+5.  [How to Switch Tabs using Template](./..04-FAQ/how-to-switch-tabs-using-template.md) 
+6.  [Salesforce Testing](./../04-FAQ/how-to-test-salesforce.md)
+7.  [How to add Timeout Template](./../04-FAQ/timeout-template.md)
+8.  [Uploading different types of file](./../04-FAQ/uploading-types-of-file.md)
+9.  [How to Verify Test Steps](./../04-FAQ/verify-test-steps.md)
