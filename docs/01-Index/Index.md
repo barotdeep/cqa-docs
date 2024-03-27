@@ -147,3 +147,4 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 7.  [How to add Timeout Template](./../04-FAQ/timeout-template.md)
 8.  [Uploading different types of file](./../04-FAQ/uploading-types-of-file.md)
 9.  [How to Verify Test Steps](./../04-FAQ/verify-test-steps.md)
+10. [How to upload file and how to use File upload Template](./../04-FAQ/How-to-upload-file.md)

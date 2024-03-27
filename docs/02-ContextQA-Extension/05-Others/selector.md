@@ -9,6 +9,11 @@ topics:
 
 This guide provides step-by-step instructions on how to find the locator and use the selector in the ContextQA extension. It explains how to access the necessary options and edit the locator's value, ultimately enabling users to save and apply the changes.
 
+## [Interactive Demo](https://app.storylane.io/share/peb8tde9soqz)
+
+
+### **Steps**
+
 1\. Navigate to the required page
 
 
