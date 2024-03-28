@@ -3,7 +3,7 @@
 
 This guide provides a step-by-step process for testing the order and checkout scenario in an e-commerce website. It includes instructions for creating test cases, recording steps, adding and executing test steps, and viewing run details, including recorded videos and trace views. This guide is helpful for anyone involved in testing e-commerce websites and ensuring a smooth order and checkout process.
 
-### [Video](https://www.loom.com/share/5739eac57c1d40aab2a783b9e0fb2894?sid=4963c6e3-e3ff-4622-8d45-f92b6402b557)
+### [Video](https://www.loom.com/share/61dcd0b32aea4a109f6791b4fdd426ef?sid=15cf0e2a-a8ae-4278-8b14-ebd45cf29c0a)
 
 ### **Steps**
 
