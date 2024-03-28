@@ -1,6 +1,8 @@
 # Timeout Template
 
+## [Video](https://www.loom.com/share/dc7a81bd7f654d77a2247ed243abde12?sid=6d017618-ad80-40a1-ba22-b43ae8c1040f)
 
+## **Steps**
 
 1\. Navigate to **Test Development section**
 

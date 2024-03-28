@@ -3,7 +3,7 @@
 
 This guide provides step-by-step instructions on how to upload a file and use the File upload Template. It includes detailed instructions on navigating to the appropriate section, selecting and uploading the file, copying the file's URL, and adding the file to a test case. By following this guide, users can easily upload files and utilize the File upload Template effectively.
 
-## [Interactive Demo](https://app.storylane.io/share/7obot8grl5ws)
+## [Interactive Demo](https://app.storylane.io/share/7obot8grl5ws) | [Video1](https://www.loom.com/share/c0c0662add8a4ac2a8ff9a1451b2fa32?sid=2e38fac4-70f1-48d7-8a4f-1557e636e86b) | [Video2](https://www.loom.com/share/0e7fdda6f84c4fc283bc958b16aa53fb?sid=b16786d1-5578-406a-8295-5a16a86ac97c) | [Video3](https://www.loom.com/share/2f0e908b4f9944e09a2aed1554b8e12c?sid=1d2bdf16-8fac-44e5-90b1-00d9a0a949f4)
 
 
 ### Steps

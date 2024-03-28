@@ -2,7 +2,7 @@
 
 This guide provides step-by-step instructions on how to enable Jira integration in ContextQA and how to link test cases to Jira issues. By following these instructions, users can streamline their workflow, easily create and manage Jira issues, and track the progress of their test cases in Jira.
 
-## [Interactive Demo](https://app.storylane.io/share/3tegccxofna8)
+## [Interactive Demo](https://app.storylane.io/share/3tegccxofna8) | [Video](https://youtu.be/LgybBjTtEFU?feature=shared)
 
 ### Steps
 

@@ -2,6 +2,10 @@
 
 This guide provides step-by-step instructions on how to reorder steps in ContextQA. By following these instructions, it will be able to easily rearrange test steps to their desired positions, making test case management more efficient and organized.
 
+## [Video](https://www.loom.com/share/3dd02f0859f049b8a71227638ec0f9b2?sid=22b6d41f-e1b3-4a93-ad03-9ca327112af4)
+
+## **Steps**
+
 1\. Navigate to **Test Development section**
 
 

@@ -3,7 +3,7 @@
 This guide provides step-by-step instructions on how to integrate AI into a test development process. It outlines the process of navigating to the test development section, accessing the ContextQA_Testcase, copying and pasting steps, and successfully converting plain text into AI-integrated steps.
 
 
-## [Interactive Demo](https://app.storylane.io/share/t1exguceqxmx)
+## [Interactive Demo](https://app.storylane.io/share/t1exguceqxmx) | [Video](https://www.loom.com/share/8b74999f12bd4abca834b6fff5025af4?sid=471331ae-34bd-4201-af0d-61755e3e77f6)
 
 
 
