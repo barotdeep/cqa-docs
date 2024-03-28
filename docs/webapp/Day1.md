@@ -1,6 +1,6 @@
 # Welcome to Day 1 of ContextQA 🎉 
  
-We are excited to help you automate a Test-case quickly! 
+We are excited to help you **Automate Test-case** quickly! 
  
 Getting started with ContextQA is quite simple
 
