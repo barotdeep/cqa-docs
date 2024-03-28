@@ -4,6 +4,10 @@ This guide provides step-by-step instructions on how to perform ecommerce login 
 
 Tip: Users are encouraged to explore and perform testing on the Saucedemo site utilizing ContextQA
 
+## [Video](https://www.loom.com/share/8a8921dd26a946099982d20b4a88e582?sid=0be5ed51-89f5-4d3f-bca4-a5f1db8ce8f8)
+
+
+## **Steps**
 
 1\. Navigate to <https://www.saucedemo.com/>
 
