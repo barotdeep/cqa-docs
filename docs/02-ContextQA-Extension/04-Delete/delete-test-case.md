@@ -2,6 +2,8 @@
 
 This guide provides a simple and straightforward process for deleting a test case from the Extension in ContextQA. By following the steps outlined, users can easily remove a test case and ensure its successful deletion.
 
+## [Video](https://youtu.be/6ihdpNnEuT8?feature=shared)
+
 1\. Click on **ContextQA Extension**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/2dfc6702-1fd8-43b3-b4a8-b163bdd4a073/ascreenshot.jpeg?tl_px=544,0&br_px=1920,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=895,42)

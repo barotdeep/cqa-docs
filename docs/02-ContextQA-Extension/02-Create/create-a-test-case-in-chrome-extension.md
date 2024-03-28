@@ -5,7 +5,7 @@
 
 This guide provides step-by-step instructions on creating a Test case in ContextQA, using the example of the OrangeHRM website. It covers everything from opening the tool to recording and saving the test case and Validating it, making it a helpful resource for anyone looking to efficiently create test cases in ContextQA.
 
-## [Interactive Demo](https://app.storylane.io/share/ifychdsdj9vc)
+## [Interactive Demo](https://app.storylane.io/share/ifychdsdj9vc) | [Video](https://youtu.be/cTeIacwTTgM?feature=shared)
 
 **Steps**
 

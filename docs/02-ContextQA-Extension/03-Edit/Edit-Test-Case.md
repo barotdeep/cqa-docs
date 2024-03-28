@@ -1,7 +1,7 @@
+# Edit Test case in Extension
+
 [Go to Index page](../../01-Index/Index.md)
 
-
-# Edit Test case in Extension
 
 This guide provides step-by-step instructions on how to edit a test case using the ContextQA Extension. It includes details on changing the title and tags, leaving the description blank, and successfully updating the test case.
 

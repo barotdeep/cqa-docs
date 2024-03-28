@@ -2,6 +2,8 @@
 
 This guide provides a quick and easy step-by-step process for deleting a step from an extension in ContextQA. By following these instructions, users can efficiently remove unnecessary steps and streamline their workflows, improving productivity and maintaining a clean and organized testing environment.
 
+## [Video](https://youtu.be/5Lo4AxgiEuE?feature=shared)
+
 1\. Click on **ContextQA Extension**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/ff2a710d-df9d-4f0b-9586-e00a01d5c582/ascreenshot.jpeg?tl_px=1060,0&br_px=1920,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=592,52)
