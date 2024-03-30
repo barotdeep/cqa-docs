@@ -30,13 +30,13 @@ In just one week, you'll explore all the essential features and capabilities we 
 
 Welcome aboard!
 
-[DAY1 - Create a simple Testcase](./../webapp/Day1.md)  
-[Day2 - Automate API Testing](./../webapp/Day2.md)  
-[Day3 - Create Test Suite & Plan](./../webapp/Day3.md)  
-[Day4 - Data Driven Testing](./../webapp/Day4.md)  
-[Day5 - Create Step Group](./../webapp/Day5.md)  
-[Day6 - How to Re-record Test Steps](./../webapp/Day6.md)  
-[Day7 - Proof & Release](./../webapp/Day7.md)  
+[Day 1 - Create a simple Testcase](./../webapp/Day1.md)  
+[Day 2 - Automate API Testing](./../webapp/Day2.md)  
+[Day 3 - Create Test Suite & Plan](./../webapp/Day3.md)  
+[Day 4 - Data Driven Testing](./../webapp/Day4.md)  
+[Day 5 - Create Step Group](./../webapp/Day5.md)  
+[Day 6 - How to Re-record Test Steps](./../webapp/Day6.md)  
+[Day 7 - Proof & Release](./../webapp/Day7.md)  
 
 
 Happy Testing!

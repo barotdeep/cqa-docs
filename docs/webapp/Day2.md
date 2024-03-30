@@ -1,4 +1,4 @@
-# Welcome to Day 2 of ContextQA!🎉
+# Day 2
 
 We are excited to help you **Automate API Testing** in the easiest way today!
 

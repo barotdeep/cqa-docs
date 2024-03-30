@@ -1,5 +1,5 @@
 
-# Welcome to Day 7 of ContextQA!🎉
+# Day 7
 
 We're thrilled to assist you with our New Feature **Proof and Release** today!
 

@@ -1,5 +1,5 @@
 
-# Welcome to Day 4 of ContextQA!🎉
+# Day 4
 
 We are excited to help you achieve **Data Driven Testing** today!
 

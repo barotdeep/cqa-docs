@@ -1,5 +1,5 @@
 
-# Welcome to Day 5 of ContextQA!🎉  
+# Day 5
 
 We're thrilled to assist you in minimizing repetitive tasks by introducing **Step Group** today!  
 

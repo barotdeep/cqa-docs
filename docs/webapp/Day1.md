@@ -1,4 +1,4 @@
-# Welcome to Day 1 of ContextQA 🎉 
+# Day 1
  
 We are excited to help you **Automate Test-case** quickly! 
  

@@ -1,5 +1,5 @@
 
-# Welcome to Day 3 of ContextQA!🎉
+# Day 3
 
  We are excited to help you **Create Test Suite and Test Plan** the easiest way!
 

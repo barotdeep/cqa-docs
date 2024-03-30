@@ -1,6 +1,4 @@
-
-
-# Welcome to Day 6 of ContextQA!🎉
+# Day 6
 
 We're thrilled to assist you in **Re-recording Test Steps** the easiest way today!
 
