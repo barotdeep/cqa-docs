@@ -2,6 +2,10 @@
 
 This guide provides step-by-step instructions on how to switch Tabs using a Template. By following this guide, you will be able to easily navigate to the desired tab in your test development section by creating a test step with the switch template. This guide ensures a smooth and efficient process for switching tabs.
 
+### [Video](https://www.loom.com/share/6c83d584b00a4e3aac68d3d309732a6b?sid=777bf658-05a7-452d-a7a8-d7244cab8e1a)
+
+### Steps
+
 1\. Navigate to **Test Development** Section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/803fcf0b-75e9-4c7b-bf65-1cd0fe59f2e1/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-5,174)

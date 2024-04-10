@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions on how to verify steps in ContextQA. It explains how to navigate to the test development section, add steps for verification, change test data to a URL, add additional verification steps, and create different types of verification steps. By following this guide, users can effectively use ContextQA to verify various elements and labels in their tests.
 
+## Steps
+
 1\. Navigate to **Test Development** Section
 
 

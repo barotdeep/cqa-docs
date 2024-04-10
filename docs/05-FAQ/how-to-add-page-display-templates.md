@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions on how to create and use templates for verifying whether a current page displays text or not. By following these steps, users can efficiently create templates and easily apply them to their testing process, saving time and effort.
 
+## Steps
+
 1\. **Template 1 - Current Page displays text**
 
 

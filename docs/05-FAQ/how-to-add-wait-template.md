@@ -5,6 +5,8 @@ This guide provides step-by-step instructions on how to add a Wait Template in a
 Tip: Whenever you encounter buffering on your screen or experience delays while navigating between pages, ensure you implement a "wait for a test-data seconds" template. This step is crucial to guarantee the timely retrieval of locators; otherwise, the test case might fail due to their untimely fetching.
 
 
+## Steps
+
 1\. Navigate to **Test Development** section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-07/2b9218ec-6dc5-4d68-8470-25342f4b24f6/ascreenshot.jpeg?tl_px=0,0&br_px=859,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=8,173)

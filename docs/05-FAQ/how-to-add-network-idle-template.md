@@ -6,6 +6,7 @@ Tip: Sometimes the page loads differently than we expect. This causes the next t
 
 So, as a result network idle will wait for all the text results to be fetched.
 
+## Steps
 
 1\. Navigate to **Test Development** Section
 

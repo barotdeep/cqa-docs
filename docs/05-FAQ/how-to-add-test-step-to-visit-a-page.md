@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions on how to add a Test step to visit a page. It is useful for anyone who wants to learn how to navigate to the Test Development section, create a Testcase, and add a Visit Test step with the appropriate template and test data. By following this guide, you can successfully create a Visit Test Step.
 
+## Steps
+
 1\. Navigate to **Test Development** Section
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-06/5a3552f0-870b-45f6-bea7-0d15f6b69ae3/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=-7,176)
