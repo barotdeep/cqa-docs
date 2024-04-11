@@ -6,15 +6,15 @@ We are excited to help you achieve **Data Driven Testing** today!
 
 
 ## **Prerequisite:**  
-1.    [Install](https://app.storylane.io/share/tvpsrlszceva) ContextQA Extension  
-2.    [Login](https://app.storylane.io/share/1u6fb5iexqaz) to ContextQA Platform  
+1.    [Install](../02-ContextQA-Extension/01-Install-&-Login/Install-extension.md) ContextQA Extension  
+2.    [Login](../02-ContextQA-Extension/01-Install-&-Login/Login-Extension.md) to ContextQA Platform  
 
 
 ## **Today’s Focus:**  
 
 **Data Driven Testing**  
-1. [Create Test Data Profile](https://app.storylane.io/share/kq3tqfahgrlf)  
-2. [Call and Run Test Data Profile](https://app.storylane.io/share/utvfjqeuxqgz)  
+1. [Create Test Data Profile](../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.6-create-test-data-profile.md)  
+2. [Call and Run Test Data Profile](../03-ContextQA-Portal/02-Test-Development-Section/04-Call/4.2-Call-Test-Data-Profile-in-Testcase.md)  
 
 
 Need some more information of our other features? Head over to [user guide](./../01-Index/Index.md) to see step-by-step instructions.  

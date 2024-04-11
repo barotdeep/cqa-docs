@@ -4,12 +4,12 @@ We are excited to help you **Automate API Testing** in the easiest way today!
 
 
 ## **Prerequisite:**  
-1.    [Install](https://app.storylane.io/share/tvpsrlszceva) ContextQA Extension  
-2.    [Login](https://app.storylane.io/share/1u6fb5iexqaz) to ContextQA Platform  
+1.    [Install](../02-ContextQA-Extension/01-Install-&-Login/Install-extension.md) ContextQA Extension  
+2.    [Login](../02-ContextQA-Extension/01-Install-&-Login/Login-Extension.md) to ContextQA Platform  
 
 
 ## **Today’s Focus:**  
-1.  [How to Automate API Testing](https://app.storylane.io/share/si1ieijztdbw)
+1.  [How to Automate API Testing](../03-ContextQA-Portal/04-API-Testing/api-testing.md)
 
 
 

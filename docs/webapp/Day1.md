@@ -4,10 +4,10 @@ We are excited to help you **Automate Test-case** quickly!
  
 Getting started with ContextQA is quite simple
 
-1. [Install](https://app.storylane.io/share/tvpsrlszceva) the Extension  
-2. [Create](https://app.storylane.io/share/ifychdsdj9vc) a Testcase  
+1. [Install](../02-ContextQA-Extension/01-Install-&-Login/Install-extension.md) the Extension  
+2. [Create](../02-ContextQA-Extension/02-Create/create-a-test-case-in-chrome-extension.md) a Testcase  
 3. [Record](https://app.storylane.io/share/nj0mc8vb7ghc) Test Steps using extension
-4. [Run](https://app.storylane.io/share/dttk0otxvyc4) and easily see test execution results
+4. [Run](../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.1-run-test-case.md) and easily see test execution results
 
 
 

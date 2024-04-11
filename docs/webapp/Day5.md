@@ -6,14 +6,14 @@ We're thrilled to assist you in minimizing repetitive tasks by introducing **Ste
 
 
 ## **Prerequisite:**  
-1.    [Install](https://app.storylane.io/share/tvpsrlszceva) ContextQA Extension  
-2.    [Login](https://app.storylane.io/share/1u6fb5iexqaz) to ContextQA Platform   
+1.    [Install](../02-ContextQA-Extension/01-Install-&-Login/Install-extension.md) ContextQA Extension  
+2.    [Login](../02-ContextQA-Extension/01-Install-&-Login/Login-Extension.md) to ContextQA Platform  
 
 
 ## **Today’s Focus:**  
-1. [Create Step Group](https://app.storylane.io/share/oga6qutlsgxd)  
+1. [Create Step Group](../03-ContextQA-Portal/02-Test-Development-Section/01-Create/1.5-Create-step-group.md)  
 
-2. [Call Step Group](https://app.storylane.io/share/4pu20lncqd8h)  
+2. [Call Step Group](../03-ContextQA-Portal/02-Test-Development-Section/04-Call/4.1-Call-step-group-in-test-case.md)  
 
 
 Need some more information of our other features? Head over to [user guide](./../01-Index/Index.md) to see step-by-step instructions.  
