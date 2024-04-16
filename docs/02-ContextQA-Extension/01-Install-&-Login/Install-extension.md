@@ -4,7 +4,7 @@
 
 This guide provides a quick and straightforward step-by-step process for adding the ContextQA extension to your Chrome browser. By following these instructions, you can easily enhance your browsing experience with this helpful tool.
 
-## [Interactive Demo](https://app.storylane.io/share/tvpsrlszceva) | [Video](https://www.loom.com/share/c6f0e119edf34ea3b18a2f8d3a0d9916?sid=d3cf131f-53c0-4fdf-9170-6e9cfb054b1d) | [Click here to Install the Extension here](https://chromewebstore.google.com/search/contextqa)
+## [Interactive Demo](https://app.storylane.io/share/tvpsrlszceva) | [Video](https://www.loom.com/share/c6f0e119edf34ea3b18a2f8d3a0d9916?sid=d3cf131f-53c0-4fdf-9170-6e9cfb054b1d) | [Click here to Install the Extension](https://chromewebstore.google.com/search/contextqa)
 
 ### **Steps**
 
