@@ -33,15 +33,6 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 6. [Delete Test Case](./../02-ContextQA-Extension/04-Delete/delete-test-case.md)
 7. [Delete Test Steps](./../02-ContextQA-Extension/04-Delete/delete-test-steps.md)
 
-**Others**  
-   
-8. [Element Dictionary in Extension](./../02-ContextQA-Extension/05-Others/Element-Directory-in-Extension.md)  
-9. [Highlighter Feature](./../02-ContextQA-Extension/05-Others/highlighter-feature.md)  
-10. [Navigate through home and Testcases](./../02-ContextQA-Extension/05-Others/navigate-through-home-and-testcases-in-the-contextqa-extension.md)  
-11. [Re-record Step from Extension](./../02-ContextQA-Extension/05-Others/re-record-step-from-extension.md)  
-12. [Search Testcase](./../02-ContextQA-Extension/05-Others/search-test-case.md)  
-13. [Selector](./../02-ContextQA-Extension/05-Others/selector.md)  
-
 
 # **ContextQA Portal**
 
@@ -102,35 +93,26 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 31. [Run Details - Executed Test Steps with Visual Regression](./../03-ContextQA-Portal/02-Test-Development-Section/05-Run-Details/5.4-run-details-Executed-Test-Steps-with-visual-regression.md)  
 
 
-**Others**  
-
-32. [Add Machines devices to Test Plan](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/Add-machines-devices-to-test-plan.md)  
-33. [Add Test Steps](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/add-test-steps.md)  
-34. [AI Integrate](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/AI-Integrate.md)  
-35. [Reorder Test Steps](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/reorder-test-steps.md)  
-36. [Restore Deleted TestCase](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/restore-deleted-testcases.md)  
-37. [Upload File](./../03-ContextQA-Portal/02-Test-Development-Section/06-Others/Upload_file.md)  
-
 
 **Mobile Testing**   
         
-38. [Mobile Testing](./../03-ContextQA-Portal/03-Mobile-testing/mobile-testing.md)
+32. [Mobile Testing](./../03-ContextQA-Portal/03-Mobile-testing/mobile-testing.md)
 
 **API Testing**  
     
-39. [API Testing](./../03-ContextQA-Portal/04-API-Testing/api-testing.md)
+33. [API Testing](./../03-ContextQA-Portal/04-API-Testing/api-testing.md)
 
 ## **Workspace Settings**  
     
-40. [Create Workspace](./../03-ContextQA-Portal/06-Workspace-settings/Create-workspace.md)
+34. [Create Workspace](./../03-ContextQA-Portal/06-Workspace-settings/Create-workspace.md)
 
 ## **Jira**  
     
-41. [Enable Jira and Link issues](./../03-ContextQA-Portal/07-Jira/Enable-Jira-&-link-issues.md)
+35. [Enable Jira and Link issues](./../03-ContextQA-Portal/07-Jira/Enable-Jira-&-link-issues.md)
 
 ## **Report Bug**  
     
-42. [Report Bug](./../03-ContextQA-Portal/07-Report-Bug/Report-Bug.md)  
+36. [Report Bug](./../03-ContextQA-Portal/07-Report-Bug/Report-Bug.md)  
 
   
 # **FAQ**
@@ -148,3 +130,21 @@ This guide offers a detailed, step-by-step walkthrough designed to help users ef
 8.  [Uploading different types of file](./../04-FAQ/uploading-types-of-file.md)
 9.  [How to Verify Test Steps](./../04-FAQ/verify-test-steps.md)
 10. [How to upload file and how to use File upload Template](./../04-FAQ/How-to-upload-file.md)
+
+
+
+## **Others**  
+
+1. [Add Machines devices to Test Plan](./../07-Others/Add-machines-devices-to-test-plan.md) 
+2. [Add Test Steps](./../07-Others/add-test-steps.md)  
+3. [AI Integrate](./../07-Others/AI-Integrate.md)  
+4. [Reorder Test Steps](./../07-Others/Reorder-Test-Steps.md)  
+5. [Restore Deleted TestCase](./../07-Others/restore-deleted-testcases.md)  
+6. [Upload File](./../07-Others/Upload_file.md)  
+7. [Element Dictionary in Extension](./../07-Others/Element-Directory-in-Extension.md)  
+8. [Highlighter Feature](./../07-Others/highlighter-feature.md)  
+9. [Navigate through home and Testcases](./../07-Others/navigate-through-home-and-testcases-in-the-contextqa-extension.md)  
+10. [Re-record Step from Extension](./../07-Others/re-record-step-from-extension.md)  
+11. [Search Testcase](./../07-Others/search-test-case.md)  
+12. [Selector](./../07-Others/FindLocator-Selector.md)  
+13. [Scheduler](./../07-Others/Test-Plan-Scheduler.md)

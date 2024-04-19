@@ -6,7 +6,7 @@
 
 This guide provides step-by-step instructions on how to login to the ContextQA extension. By following these steps, users can easily pin the extension, access the login page, enter valid credentials, and successfully login into the ContextQA extension.
 
-## [Interactive Demo](https://app.storylane.io/share/1u6fb5iexqaz)
+## [Interactive Demo](https://app.storylane.io/share/1u6fb5iexqaz) | [Click here to Login](https://accounts.contextqa.com/onboard)
 
 Alert: At First We are Pinning the ContextQA extension. So It's Easier to use.
 
