@@ -1,8 +1,6 @@
 ---
-<span style="color:blue">
-title: ContextQA Portal
-</span>
 
+title: ContextQA Portal
 intro: 'Step-by-step instructions for all the features in ContextQA portal'
 redirect_from:
   - /categories/github-pages-basics
