@@ -1,0 +1,78 @@
+# Runtime Variable
+
+This guide provides step-by-step instructions on how to create and use runtime variables in test development. By following these steps, users can easily navigate through the process of adding variables, creating test cases, and saving data. This guide is beneficial for individuals who want to enhance their test development skills and efficiently manage variables in their projects.
+
+1\. Navigate to [Test Development Section](https://errorsquad.contextqa.com/td/1/cases/filter/2) 
+
+
+2\. Click on "Create"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/3d86375f-9f77-4178-a0a7-904ceb796a7a/ascreenshot.jpeg?tl_px=844,0&br_px=1920,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=938,1)
+
+
+3\. Click  on "Click on label" template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/80eee6a6-2296-4e1c-aa59-d3fed0d60c16/ascreenshot.jpeg?tl_px=0,321&br_px=1075,922&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=252,304)
+
+
+4\. Click on "Create"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/6c4f3622-c2a4-4508-a7ea-ec1e39fc5461/ascreenshot.jpeg?tl_px=844,135&br_px=1920,736&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=880,265)
+
+
+5\. Click and add template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/030f5076-61b6-4122-be80-be75ba0cdf68/ascreenshot.jpeg?tl_px=0,200&br_px=1075,801&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=235,265)
+
+
+6\. Click on "$|Runtime|" and add variables name
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/49a7344e-1b45-4f4f-9ba4-f932d609ac1f/ascreenshot.jpeg?tl_px=0,300&br_px=1075,901&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=205,265)
+
+
+7\. Click  on "Create"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/3219646d-3673-4848-bbbf-522cd3f527e6/ascreenshot.jpeg?tl_px=844,192&br_px=1920,793&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=861,265)
+
+
+8\. Click On Clone Icon
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/0600cbb4-1b43-47b4-a015-6836b248d03e/screenshot.jpeg?tl_px=108,59&br_px=968,540&force_format=png&width=860)
+
+
+9\. Click On Step Group Radio Button
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/17cff086-29d8-492d-a646-0fb33f290169/screenshot.jpeg?tl_px=107,59&br_px=966,540&force_format=png&width=860)
+
+
+10\. Click On Create
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/503f3abe-0b95-4dfa-a6c5-63b790d46206/screenshot.jpeg?tl_px=108,59&br_px=968,540&force_format=png&width=860)
+
+
+11\. Go To Test Development Section and create new Test Case
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/37b7821d-c036-4a4b-88cd-342d01aa87aa/screenshot.jpeg?tl_px=107,59&br_px=966,540&force_format=png&width=860)
+
+
+12\. Click On Message Icon And Select Step Group
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/46af6451-e30a-4f5e-bf8d-9e57f7b24021/screenshot.jpeg?tl_px=107,59&br_px=966,540&force_format=png&width=860)
+
+
+13\. Select Step Group And Click On Create
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/bc7c6ba2-956c-4db6-bd6a-f7d4106f128a/screenshot.jpeg?tl_px=107,59&br_px=966,540&force_format=png&width=860)
+
+
+14\. Click On Three Dots
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/533474a1-f0b3-4966-9e69-6998a3b86135/screenshot.jpeg?tl_px=108,59&br_px=968,540&force_format=png&width=860)
+
+
+15\. Add Data And Save It
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/05df66ad-8440-4bf6-a6cd-8dbb58b31f53/screenshot.jpeg?tl_px=108,59&br_px=968,540&force_format=png&width=860)
+
+
+
