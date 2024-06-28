@@ -1,0 +1,87 @@
+# Add If Condition
+
+This guide provides step-by-step instructions on how to add an if condition to a test development section. By following these steps, users can learn how to navigate to the relevant section, create and add templates, add conditions, and create different steps based on the condition. It is a helpful resource for anyone looking to add conditional logic to their test development process.
+
+1\. Navigate to **Test Development Section**
+
+
+2\. Click  on **Create**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/e08446d8-c512-4ec9-9b69-09617a2e536a/ascreenshot.jpeg?tl_px=351,0&br_px=1427,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=961,2)
+
+
+3\. Click on Message Icon
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/6fab6996-8fb3-49b4-a5c7-97853316079f/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=70,245)
+
+
+4\. Click on Condition If Toggle Icon
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/fd524d82-7321-4af6-a033-38c753ae4de3/ascreenshot.jpeg?tl_px=0,222&br_px=1075,823&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=250,265)
+
+
+5\. Click  and Add Template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/93cdc916-606c-44a9-871a-b892dbc41e10/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=275,237)
+
+
+6\. Click on "source_value" template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/600b78d9-e9a5-4db0-85fd-9b63cc18ec6d/ascreenshot.jpeg?tl_px=0,321&br_px=1075,922&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=220,294)
+
+
+7\. Click on  **"$|Runtime|"** and enter variable name
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/abf22d4d-687e-4337-88ab-672ea0aa871c/ascreenshot.jpeg?tl_px=0,159&br_px=1075,760&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=208,265)
+
+
+8\. Click on target value and ADD Conditions
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/f9ec1660-997d-4773-8451-398baef2c166/screenshot.jpeg?tl_px=99,3&br_px=1818,964&force_format=png&width=1120.0)
+
+
+9\. Click  on **"Create"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/bef7c498-0f39-4b2d-b6bf-10e30aaa716b/ascreenshot.jpeg?tl_px=351,47&br_px=1427,648&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=898,265)
+
+
+10\. Click on  **"+ Add Step"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/0ff9ad81-abbf-40fa-8e2d-9e1466f440a8/ascreenshot.jpeg?tl_px=217,6&br_px=1292,607&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+11\. Click on **"Add Step"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/281d7e4d-23a5-4e11-8144-54c215f10819/ascreenshot.jpeg?tl_px=27,55&br_px=1102,656&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+12\. Click and add Template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/c3cca961-88f3-417f-a278-06fdeabaf0c2/ascreenshot.jpeg?tl_px=0,321&br_px=1075,922&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=357,299)
+
+
+13\. Click  on **"Create"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/5e923c5e-062b-453e-a3d9-6894022ed15b/ascreenshot.jpeg?tl_px=351,134&br_px=1427,735&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=864,265)
+
+
+14\. Click on  **"+ Add Step"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/4af6afe3-e470-4138-b079-233a81193c0c/ascreenshot.jpeg?tl_px=224,71&br_px=1299,672&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+15\. Click on Add Step
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/3a49e1c2-02f4-4e91-84c5-9c71d092cc4d/ascreenshot.jpeg?tl_px=0,127&br_px=1075,728&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=465,265)
+
+
+16\. Click On Template
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/831d7ec8-953b-4508-bdc1-03701d127a09/ascreenshot.jpeg?tl_px=0,240&br_px=1075,841&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=365,265)
+
+
+17\. Click on  **"Create"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-26/3ff132b6-1876-4a0b-9ea6-334a2cac70f7/ascreenshot.jpeg?tl_px=351,195&br_px=1427,796&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=898,265)
+
+
