@@ -1,0 +1,43 @@
+# Download Testcase Reports
+
+This guide provides step-by-step instructions on how to download testcase reports. It is useful for individuals who need to access and analyze performance testing reports for their test cases. Following the outlined steps will enable users to easily navigate to the desired reports and download them for further analysis.
+
+1\. Navigate to [Test Development Section](https://lululemonand.contextqa.com/td/1/cases/filter/2?q=undefined,workspaceVersionId:1,deleted:false,isStepGroup:false,name:*erro*)
+
+
+2\. Click  on "Test Case"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/e6ed19b7-326a-4e89-b4b8-6ab994fbe4a3/ascreenshot.jpeg?tl_px=73,31&br_px=1148,632&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,265)
+
+
+3\. Click on  "Run History"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/b75091b8-3baa-4158-ba28-e840a4724397/ascreenshot.jpeg?tl_px=351,82&br_px=1427,683&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=693,265)
+
+
+4\. Click on "Three Dots"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/61facd0e-f8e8-4cc8-a38d-2f06f8413577/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=375,45)
+
+
+5\. Click on "Reports"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/df45a806-34db-408f-8c5c-cc6693d419bc/ascreenshot.jpeg?tl_px=0,0&br_px=1075,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=470,155)
+
+
+6\. Click on "Performance Testing"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/c954361b-f3da-4a40-b48d-483875f3ae46/ascreenshot.jpeg?tl_px=297,0&br_px=1372,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=502,163)
+
+
+7\. Click on "Report 1" and Download it
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/162af4f0-3bb0-48b4-9335-ffd5a65a7ab1/ascreenshot.jpeg?tl_px=351,0&br_px=1427,600&force_format=png&wat_scale=95&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=626,157)
+
+
+8\. After Downloading Reports Look Like This
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-06-27/0ffabb28-3514-461d-b3bc-f96bf883be04/screenshot.jpeg?tl_px=100,12&br_px=1820,973&force_format=png&width=1120.0)
+
+
+
