@@ -2,6 +2,8 @@
 
 This guide provides a step-by-step process on how to access and utilize the Element Directory feature in ContextQA Test Automation. By following these steps, users can easily view and access all the elements present on a webpage, making it easier to navigate and interact with the page during testing or automation tasks.
 
+## [Interactive Demo](https://app.storylane.io/share/4vaavcp9owzw)
+
 1\. **Right click** on the page
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-03-01/a94e1811-d48a-4a0e-8c6c-686971e0e857/ascreenshot.jpeg?tl_px=200,0&br_px=1920,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=684,225)
