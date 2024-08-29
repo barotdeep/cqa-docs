@@ -1,18 +1,17 @@
 ---
-
 title: ContextQA Portal
-intro: 'Step-by-step instructions for all the features in ContextQA portal'
+intro: "Step-by-step instructions for all the features in ContextQA portal"
 redirect_from:
   - /categories/github-pages-basics
   - /articles/additional-customizations-for-github-pages
   - /articles/getting-started-with-github-pages
   - /github/working-with-github-pages/getting-started-with-github-pages
-product: '{% data reusables.gated-features.pages %}'
+product: "{% data reusables.gated-features.pages %}"
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: "*"
+  ghes: "*"
+  ghae: "*"
+  ghec: "*"
 topics:
   - Pages
 children:
